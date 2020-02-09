@@ -1,4 +1,5 @@
 street_fi,street_sv,lono,hino
+Ahlströmin Parras,,2,8
 Alpunkuja,,1,3
 Ansarinkuja,,1,3
 Antti Possin Kuja,,1,10
@@ -15,7 +16,7 @@ Isosuonkatu,,2,7
 Itämäenkatu,,1,19
 Kalkkikatu,,1,3
 Kalttilankatu,,1,
-Kehyskatu,,1,
+Kehyskatu,,1,11
 Kimpikatu,,1,14
 Kipinäkatu,,1,
 Kivikaarenkatu,,2,41
@@ -41,7 +42,8 @@ Mäkelänkatu,,1,15
 Neitoperhonkuja,,1,6
 Niemenkylänkatu,,1,4
 Niemenkylänkuja,,1,6
-Niemenrannan Puistokatu,,2,
+Niemenrannan Puistokatu,,2,56
+Niemenrantaraitti,,4,
 Niemenvainionkatu,,1,7
 Niemenvainionkuja,,2,6
 Nottbeckinkatu,,1,14
@@ -72,8 +74,9 @@ Possilankatu,,1,51
 Possilanrinne,,2,18
 Päiväperhonkatu,,2,19
 Pälänkuja,,1,
-Raamikatu,,1,18
+Raamikatu,,1,34
 Rahkasuonkatu,,1,12
+Reuharinviitta,,2,6
 Rientolankatu,,3,23
 Rimpikuja,,1,4
 Ritalankatu,,1,39
@@ -82,11 +85,13 @@ Ryydynkatu,,1,86
 Ryydynkuja,,1,11
 Ryydynkulma,,3,12
 Ryydynojankatu,,1,29
+Sahankallionkuja,,1,15
 Sellukatu,,1,30
 Siivikkalankatu,,1,27
 Soritunkatu,,2,20
 Sumiankatu,,1,11
 Suokorvenkatu,,2,8
+Suvialankaari,,1,40
 Takasenkatu,,1,5
 Taninkatu,,1,14
 Tapulinkatu,,1,46
@@ -98,6 +103,7 @@ Teivaankatu,,2,7
 Teivaankuja,,1,7
 Telakatu,,4,16
 Telakuja,,3,5
+Tukkivahdinterassi,,3,5
 Turvekuja,,1,4
 Turvesuonkatu,,1,30
 Vakosuonkatu,,2,14
