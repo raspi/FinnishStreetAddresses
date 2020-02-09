@@ -7,7 +7,7 @@ Hauhontie,Hauhovägen,2,8
 Haukilahdenkatu,Gäddviksgatan,2,6
 Haukilahdenkuja,Gäddviksgränden,1,13
 Helminkatu,Helmigatan,1,10
-Hermannin Rantatie,Hermanstads Strandväg,28,40
+Hermannin Rantatie,Hermanstads Strandväg,28,32
 Hollolantie,Hollolavägen,2,4
 Hämeentie,Tavastvägen,63,105
 Inarinkuja,Enaregränden,1,
@@ -18,7 +18,7 @@ Keiteleentie,Keitelevägen,1,12
 Kiiskinkatu,Girsgatan,,
 Kirsikkatie,Körsbärsvägen,1,
 Kumpulankatu,Gumtäktsgatan,,
-Kustaa Vaasan Tie,Gustav Vasas Väg,2,
+Kustaa Vaasan Tie,Gustav Vasas Väg,,
 Kuusamonkatu,Kuusamogatan,1,
 Kuusiluodonkatu,Granholmsgatan,,
 Kyläsaarenkatu,Byholmsgatan,6,
@@ -30,7 +30,7 @@ Mäkelänrinne,Backasbrinken,1,5
 Orioninkatu,Oriongatan,1,20
 Ouluntie,Uleåvägen,1,6
 Pernajantie,Pernåvägen,1,7
-Pietari Kalmin Katu,Pehr Kalms Gata,2,
+Pietari Kalmin Katu,Pehr Kalms Gata,,
 Päijänteentie,Päijännevägen,1,7
 Rautalammintie,Rautalampivägen,2,7
 Saarenkatu,Holmgatan,1,19
@@ -47,5 +47,4 @@ Vellamonkatu,Vellamogatan,1,30
 Violankatu,Violagatan,1,10
 Violankuja,Violagränden,2,7
 Vuoksentie,Vuoksenvägen,,
-Väisälänaukio,Väisäläs Plats,2,
 Ähtärintie,Ätsärivägen,1,8
