@@ -21,6 +21,7 @@ Ilolantie,,7,159
 Jaakolantie,,5,375
 Jakkulantie,,36,422
 Kaasentie,,25,265
+Kalavalkama,,60,
 Karjasillantie,,14,
 Karttamontie,,446,510
 Kaskistontie,,561,1323
@@ -63,7 +64,7 @@ Pertunkoivuntie,,46,70
 Pikku-Ätämön Tie,,33,78
 Rantamaantie,,45,
 Rantaniityntie,,3,100
-Rapimäentie,,47,56
+Rapinmäentie,,47,56
 Rasinkuja,,1,43
 Rauhankalliontie,,2,16
 Rauharannantie,,13,179
@@ -76,7 +77,6 @@ Räishuhdantie,,7,184
 Saarikontie,,2,64
 Saarniituntie,,15,174
 Sahajoentie,,18,42
-Salkola,,,
 Salkolannokka,,19,69
 Salkolantie,,7,1211
 Salmentie,,201,
@@ -84,7 +84,7 @@ Sirron Metsätie,,280,
 Sirrontie,,26,114
 Somerniemen Kirkkotie,,2,26
 Suojoentie,,41,253
-Särkjärventie,,22,
+Särkjärventie,,22,304
 Takametsäntie,,14,50
 Tasasentie,,13,17
 Taustantie,,37,66

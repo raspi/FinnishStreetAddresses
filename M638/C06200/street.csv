@@ -2,6 +2,7 @@ street_fi,street_sv,lono,hino
 Ampujantie,Skyttevägen,123,171
 Antaksentie,Antasvägen,1,29
 Aumasaarentie,Stackholmsvägen,34,68
+Bergholmen,,44,
 Bjurbölentie,Bjurbölevägen,195,364
 Björkholmarna,,46,
 Björknäsintie,Björknäsvägen,11,190
@@ -14,6 +15,7 @@ Ekohumlantie,Ekohumlavägen,37,77
 Epoontie,Ebbovägen,84,801
 Etelälahdentie,Söderviksvägen,6,77
 Fasaanikuja,Fasangränden,4,12
+Flakaörarna,,4,
 Grundvikintie,Grundviksvägen,53,358
 Grännäsintie,Grännäsvägen,,
 Gäddragintie,Gäddragsvägen,33,492
@@ -29,6 +31,7 @@ Hummelpärantie,Hummelpäravägen,42,178
 Husvikintie,Husviksvägen,8,367
 Huutolahdentie,Ropviksvägen,3,29
 Huvilatie,Villavägen,1,104
+Hässjeholmen,,2,110
 Håbackantie,Håbackavägen,33,232
 Isojärventie,Storträskvägen,2,40
 Jakarintie,Jackarbyvägen,153,270
@@ -69,8 +72,11 @@ Käärmekuusentie,Ormgransvägen,2,49
 Köttbodantie,Köttbodavägen,3,65
 Laajasuonpolku,Degermossastigen,2,42
 Laajasuontie,Degermossavägen,4,107
+Laduholmen,,2,96
 Laulurastaantie,Taltrastvägen,1,11
 Levojärventie,Levojärvivägen,1,165
+Lilla Hässjeholmen,,4,
+Lilla Svartholmen,,38,
 Lillkroksintie,Lillkroksvägen,6,35
 Lindnäsintie,Lindnäsvägen,10,43
 Lippukalliontie,Flaggbergsvägen,12,53
@@ -120,6 +126,7 @@ Pyykkärinpolku,Bykerskestigen,12,61
 Raittiuskuja,Nykterhetsgränden,3,14
 Rajahaka,Gränshagen,1,26
 Rajakuja,Rågränden,8,12
+Ramsholmen,,12,240
 Rantakalliontie,Strandbergsvägen,18,38
 Renumintie,Renumvägen,1,337
 Riihikalliontie,Ribergsvägen,8,58
@@ -127,6 +134,7 @@ Rinnemäenpolku,Falbergsstigen,20,
 Rinnemäentie,Fallbergsvägen,2,138
 Ristikalliontie,Korsbergsvägen,10,95
 Ritamäentie,Ritabackavägen,4,95
+Romholmen,,16,
 Rotnäsinpolku,Rotnässtigen,22,
 Rotnäsintie,Rotnäsvägen,13,105
 Ruukinsaarentie,Bruksholmsvägen,2,59
@@ -136,15 +144,19 @@ Rånäsintie,Rånäsvägen,156,
 Råuddintie,Råuddsvägen,6,10
 Sarvaksentie,Sarvasvägen,4,42
 Sepelrastaantie,Ringtrastvägen,1,8
+Sillholmen,,34,
 Siperholmen,,62,
 Skavarbölentie,Skavarbölevägen,4,360
 Snäckvikintie,Snäckviksvägen,51,310
 Sommarintie,Sommarivägen,1,16
+Sondbyn Brännholmarna,Sondby Brännholmarna,14,72
 Sondbynpolku,Sondbystigen,2,42
 Sondbyntie,Sondbyvägen,4,385
+Stackholmen,,8,50
 Staffaksentie,Staffasvägen,2,54
 Stensbölentie,Stensbölevägen,19,
 Stenvikintie,Stenviksvägen,2,17
+Stora Svartholmen,,18,124
 Storholmen,,12,54
 Storknutsintie,Storknutsvägen,19,125
 Stormalmenintie,Stormalmsvägen,1,115
@@ -156,7 +168,9 @@ Suoniityntie,Kärrmossavägen,38,44
 Suoraniementie,Suoraniemivägen,2,27
 Susisuontie,Vargmossavägen,2,36
 Suvitie,Sommarvägen,5,45
+Svartholmen,,2,66
 Säynelahdentie,Idviksvägen,3,37
+Tackholmarna,,44,
 Tapaninkuja,Stefansgränden,2,14
 Tavistholmen,,4,
 Tervaranta,Tjärstranden,1,34
@@ -169,6 +183,7 @@ Valkohiekantie,Vitsandsvägen,7,21
 Vanha Långholmintie,Gamla Långholmsvägen,7,188
 Vanha Seitlahdentie,Gamla Seitlaxvägen,3,33
 Vanha Veckjärventie,Gamla Veckjärvivägen,116,224
+Vattuören,,22,
 Veckjärventie,Veckjärvivägen,164,535
 Venerannanpolku,Båtstrandsstigen,4,25
 Venerannantie,Båtstrandsvägen,9,70

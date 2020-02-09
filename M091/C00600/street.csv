@@ -2,6 +2,7 @@ street_fi,street_sv,lono,hino
 Antti Korpin Tie,Anders Korps Väg,2,7
 Artjärventie,Artsjövägen,1,11
 Askolantie,Askolavägen,1,20
+Hospitaalinkulku,Hospitalgången,2,
 Iitintie,Iittisvägen,1,10
 Jaalantie,Jaalavägen,1,20
 Juhana-Herttuan Tie,Hertig Johans Väg,2,17
@@ -12,13 +13,14 @@ Kotipolku,Hemstigen,1,18
 Kullervonkatu,Kullervogatan,5,9
 Kunnalliskodintie,Kommunalhemsvägen,1,13
 Kuutamotie,Månskensvägen,2,29
-Käpyläntie,Kottbyvägen,8,50
+Käpyläntie,Kottbyvägen,7,50
 Metsätie,Skogsvägen,1,12
 Myrskylänkuja,Mörskomgränd,1,
 Myrskyläntie,Mörskomvägen,1,17
 Nastolantie,Nastolavägen,1,43
 Onnentie,Lyckovägen,6,30
 Oulunkyläntie,Åggelbyvägen,1,29
+Paviljonkikuja,Paviljonggränden,1,3
 Pekka Jokipaltion Tie,Pekka Jokipaltios Väg,1,
 Pohjolankatu,Pohjolagatan,40,66
 Pyhtääntie,Pyttisvägen,1,20
