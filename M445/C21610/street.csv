@@ -1,7 +1,7 @@
 street_fi,street_sv,lono,hino
 Alatie,Nedervägen,2,4
 Ali-Kirjalantie,Nederkirjalavägen,3,341
-Asuntotie,Bostadsvägen,1,5
+Asuntotie,Bostadsvägen,2,
 Aurinkovuorentie,Sohlbergavägen,19,34
 Bergbontie,Bergbovägen,15,42
 Bollbölen Rantatie,Bollböle Strandväg,10,60
@@ -77,5 +77,5 @@ Tukkisuo,Timmermossen,1,17
 Vallbontie,Vallbovägen,67,89
 Vasikkaniementie,Kalvnäsvägen,10,60
 Veistämönlahdentie,Varvsviksvägen,18,54
-Ylätie,Övervägen,1,7
+Ylätie,Övervägen,,
 Önsholmantie,Önsholmsvägen,32,

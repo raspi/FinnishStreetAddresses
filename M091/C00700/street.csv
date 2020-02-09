@@ -16,6 +16,7 @@ Heinäpellonpolku,Hejnåkersstigen,2,6
 Heinäpellontie,Hejnåkersvägen,9,40
 Hela-Aukio,Beslagplatsen,1,4
 Helatehtaankatu,Beslagfabriksgatan,1,12
+Helge Nymanin Kuja,Helge Nymans Gränd,1,
 Hietakummuntie,Sandkullavägen,1,19
 Hietaniitynpolku,Sandängsstigen,2,
 Hietapellonpolku,Sandåkersstigen,3,
@@ -59,15 +60,13 @@ Laidunpolku,Betesstigen,3,
 Lallinkuja,Lalligränden,1,10
 Lallintie,Lallivägen,1,11
 Lankanaulankatu,Trådspiksgatan,1,
-Latokartanonkuja,Ladugårdsgränden,1,
-Latokartanontie,Ladugårdsvägen,1,30
 Laulurastaankuja,Trastgränden,1,5
 Laulurastaantie,Trastvägen,7,27
 Lillinkuja,Lillysgränd,1,5
 Luuvakuja,Loggränden,1,10
 Lyylinkuja,Lydiasgränd,1,4
 Länsirinnetie,Västerbrinkvägen,2,2
-Malmin Asematie,Malms Stationsväg,2,6
+Malmin Asematie,Malms Stationsväg,1,9
 Malmin Kalmistotie,Malms Kyrkogårdsväg,1,
 Malmin Kauppatie,Malms Handelsväg,2,30
 Malmin Lentoasema,Malms Flygstation,,
@@ -174,7 +173,7 @@ Vainiopolku,Åkerstigen,2,11
 Vainiotie,Åkervägen,2,24
 Valuraudankuja,Gjutjärnsgränden,1,8
 Valuraudantie,Gjutjärnsvägen,1,25
-Vanha Helsingintie,Gamla Helsingevägen,1,
+Vanha Helsingintie,Gamla Helsingevägen,1,22
 Vanha Puotinkyläntie,Gamla Botbyvägen,6,
 Vanha Tapanilantie,Gamla Staffansbyvägen,33,42
 Vasarakuja,Hammargränden,1,6
@@ -186,6 +185,5 @@ Viskurikuja,Kastgränden,1,4
 Väärämäentie,Vindobackavägen,1,7
 Ylä-Malmin Raitti,Övre Malms Bygata,4,
 Ylä-Malmin Tori,Övre Malms Torg,3,
-Yrjölänkuja,Örjansgränden,4,
 Örskinkuja,Örskisgränden,2,5
 Örskintie,Örskisvägen,2,11
