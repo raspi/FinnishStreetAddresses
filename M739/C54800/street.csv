@@ -4,7 +4,8 @@ Ahtialantie,,2,18
 Ahvenkoskentie,,66,74
 Ahvenlammentie,,,
 Ainonpolku,,1,
-Aivasjärventie,,3,291
+Aivasjärventie,,3,176
+Akkakalliontie,,63,93
 Alatuvantie,,2,8
 Anttilantie,,4,100
 Ellolantie,,9,189
@@ -15,6 +16,7 @@ Haikanpolku,,25,
 Haikosentie,,4,10
 Haimilantie,,1,11
 Hallitie,,1,12
+Hananniementie,,5,47
 Hansaarentie,,15,
 Hapolantie,,2,5
 Harjupolku,,1,9
@@ -33,6 +35,7 @@ Holminniementie,,25,
 Honkalantie,,3,9
 Honkatie,,1,
 Hujasenpolku,,10,24
+Hujasenvuorenpolku,,8,30
 Hujasenvuorentie,,38,52
 Hulikanniementie,,26,112
 Hulkontie,,7,23
@@ -56,7 +59,7 @@ Kaijanlahdentie,,1,10
 Kaijanmäentie,,44,
 Kainalonpolku,,29,
 Kainalontie,,1,131
-Kallioniementie,,18,76
+Kallioniementie,,76,
 Kanervatie,,1,4
 Kangaslammentie,,27,
 Kangasniementie,,145,212
@@ -82,7 +85,7 @@ Keskustie,,1,10
 Kiesiläntie,,1,275
 Kievarintie,,1,24
 Kiikvuorentie,,32,36
-Kiperäntie,,3,
+Kiperäntie,,3,5
 Kirkkotie,,2,6
 Kirvesniementie,,25,412
 Kirvessalmentie,,14,
@@ -96,7 +99,8 @@ Koirniementie,,25,25
 Koivutie,,2,14
 Kokkotie,,15,49
 Kolhoniementie,,7,
-Kontioniementie,,30,30
+Kontioniemenkuja,,25,45
+Kontioniementie,,30,
 Kontunen,,,
 Korpsaarentie,,93,117
 Korvenmäentie,,4,4
@@ -126,6 +130,7 @@ Kurskanniementie,,22,
 Kuuselantie,,15,98
 Kuusenmäki,,,
 Kuusitie,,1,6
+Kylliäläntie,,25,89
 Kytänsaari,,26,
 Käpykuja,,2,8
 Kärnä,,,
@@ -142,6 +147,7 @@ Lassenpolku,,1,5
 Laurintie,,30,
 Lavantie,,6,8
 Lavikanlahdentie,,30,232
+Lehonvuorentie,,9,55
 Lehtolantie,,1,44
 Lehtotie,,12,50
 Leirikuja,,1,
@@ -161,8 +167,10 @@ Majantie,,47,60
 Mankinmyllyntie,,10,30
 Matinniementie,,40,71
 Matoniementie,,52,148
-Metsoniementie,,10,60
+Metsoniemenpolku,,16,30
+Metsoniementie,,10,30
 Mikkelintie,,112,2191
+Mortintie,,7,41
 Mustaharjuntie,,58,140
 Mustalahdentie,,177,300
 Mustaniementie,,25,
@@ -176,13 +184,14 @@ Mäkirinteentie,,20,
 Mäntykiventie,,54,54
 Mäntytie,,1,9
 Naavapolku,,4,
+Nattalankuja,,12,20
 Nattalanniementie,,51,
 Nattalanpolku,,49,
 Nattalantie,,14,170
 Nieriäntie,,3,7
 Nikkarintie,,2,8
 Nikkiläntie,,27,334
-Niontie,,25,195
+Niontie,,99,195
 Noitalammentie,,49,71
 Nuorahonniementie,,30,30
 Nuorantie,,2,14
@@ -200,9 +209,10 @@ Olvenlampi,,,
 Opintie,,1,10
 Orontie,,15,35
 Orrai,,,
+Orrainlahdentie,,16,42
 Orrainsalmentie,,25,35
 Orraintaipaleentie,,44,76
-Orraintie,,16,184
+Orraintie,,74,184
 Oskarintie,,,
 Ourutie,,2,11
 Outisentie,,1,9

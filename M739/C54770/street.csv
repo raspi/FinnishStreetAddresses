@@ -31,6 +31,7 @@ Katoslahdenpolku,,,
 Katrasentie,,5,39
 Kauliontie,,5,885
 Kauriolammentie,,30,32
+Kelveneenpolku,,7,21
 Kirpunniementie,,6,50
 Kiviniementie,,41,135
 Kokkolantie,,2,150
@@ -39,8 +40,10 @@ Kuitikantie,,5,121
 Kuljuntie,,24,24
 Kupintie,,20,90
 Kupulantie,,35,194
-Kurikkaniementie,,41,139
+Kurikkakuja,,2,10
+Kurikkaniementie,,77,139
 Kuuponniementie,,25,
+Kyynelmyksenkuja,,5,30
 Käiväräisentie,,9,68
 Kärmelammentie,,22,26
 Laarintie,,107,640
@@ -52,7 +55,8 @@ Liivasenlammentie,,75,
 Loikosentie,,22,166
 Luhtalantie,,29,45
 Lämpösentie,,120,181
-Matalajärventie,,30,30
+Matalajärventie,,30,
+Matalankuja,,2,10
 Mennuntie,,20,150
 Mielakantie,,4,22
 Mikkolantie,,6,
@@ -98,6 +102,7 @@ Puntaniemenpolku,,30,
 Puntaniementie,,112,160
 Putkantie,,60,
 Puunenäntie,,136,
+Pölhöniementie,,12,14
 Rantatie,,35,35
 Rautakoskentie,,142,881
 Rautjärvenkuja,,27,35
