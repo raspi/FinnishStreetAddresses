@@ -1,5 +1,6 @@
 street_fi,street_sv,lono,hino
 Aarnentie,,8,
+Avellanintie,,24,
 Everstengintie,,22,68
 Haapakuja,,1,8
 Haapiontie,,1,5
@@ -9,21 +10,29 @@ Ingemarintie,,2,80
 Isoniituntie,,15,118
 Kaivokuja,,1,14
 Kalliontie,,4,12
-Kellahdentie,,23,275
+Kellahden Kylätie,,56,265
+Kellahden Rantatie,,23,489
+Kellahdentie,,23,877
+Kielokorventie,,1,71
 Kielotie,,1,20
 Koivukuja,,,
 Koivuluodontie,,2,172
 Koivunurpukuja,,2,11
 Kotometsäntie,,2,44
+Kujanvarrentie,,5,75
 Kärripääntie,,3,45
+Lappoontie,,101,187
 Lasitie,,10,106
+Lehtirannantie,,19,
 Lehtolantie,,1,21
 Leppäkuja,,1,11
+Mansilantie,,24,
 Myyryntie,,21,132
 Mäkikuja,,7,9
 Nuijamiestentie,,83,210
 Palstakalliontie,,1,5
 Parkanontie,,105,233
+Peltosentie,,29,67
 Pihlajakuja,,1,3
 Pohjolankuja,,9,26
 Pyntösjärventie,,7,148
@@ -35,10 +44,13 @@ Rinnekuja,,,
 Saarnikuja,,2,8
 Salmisentie,,1,6
 Sandellintie,,1,22
-Sinivuokontie,,48,
+Sillankorvantie,,13,31
+Sinivuokontie,,48,70
 Söörmarkun Vanhatie,,80,
 Söörmarkuntie,,5,424
 Tammikuja,,1,4
+Teelperintie,,5,66
+Teerenkintie,,12,220
 Teppaantie,,1,7
 Tuomikuja,,1,10
 Tyykiläntie,,1,39
@@ -46,11 +58,13 @@ Umpiaidankuja,,6,25
 Vaahterakuja,,1,11
 Vaahteramäentie,,1,7
 Vaasantie,,994,1786
+Vaittiniementie,,2,115
 Vanha Keskimäentie,,4,92
 Vanha Söörmarkuntie,,6,218
 Vanhakorventie,,11,139
 Vanhatie,,1,17
-Veikkolanraitti,,39,
+Veikkolanraitti,,14,62
+Viertolantie,,19,
 Vilkerintie,,28,298
 Ylä-Laurilantie,,46,86
 Örmänkuja,,1,21
