@@ -11,6 +11,7 @@ Alanderinkaari,,13,15
 Alkukatu,,1,12
 Alpunkuja,,2,6
 Annanmäentie,,1,59
+Arvontie,,11,215
 Asemankatu,,1,22
 Asessorinkuja,,1,7
 Aure,,,
@@ -18,6 +19,7 @@ Aureentie,,2,221
 Eeronkuja,,3,
 Einonkuja,,1,8
 Elokankaankatu,,6,22
+Elokankaantie,,,
 Elokuja,,4,
 Fennokatu,,1,12
 Hahkamäenkatu,,1,16
@@ -35,6 +37,7 @@ Heittolankatu,,3,
 Hevoshaankatu,,,
 Hiihtokeskuksentie,,32,47
 Hiirihaukankuja,,1,10
+Hirvijärventie,,3,148
 Hirviperäntie,,97,
 Holmanmäentie,,3,10
 Honkalantie,,2,57
@@ -43,6 +46,7 @@ Huhtisentie,,11,150
 Humalankatu,,1,12
 Hähkiöntie,,8,480
 Isokankaantie,,199,
+Isosalontie,,10,
 Itäkorventie,,85,160
 Jaakkola,,,
 Jaakonkatu,,3,
@@ -58,6 +62,7 @@ Jokiniemenkuja,,1,
 Jokitörmänkatu,,2,16
 Jullenkuja,,7,
 Jussinkatu,,3,8
+Juvelanlahdentie,,82,112
 Juvelantie,,46,56
 Järvensivuntie,,9,100
 Järventaustantie,,30,80
@@ -121,7 +126,7 @@ Koskirannantie,,3,289
 Kotimetsäntie,,16,24
 Kotkankatu,,2,10
 Koulukatu,,1,14
-Koulukuja,,1,
+Koulukuja,,1,8
 Koulupolku,,6,10
 Kuismankuja,,2,
 Kukkolankatu,,8,12
@@ -169,10 +174,14 @@ Matulantie,,7,11
 Meijerinkuja,,1,6
 Melajoentie,,19,79
 Metsäkatu,,3,11
+Metsälän Metsätie,,22,235
 Moisionkuja,,2,8
 Montunpohjankatu,,1,10
 Moukarimäenkatu,,5,49
+Multapakantie,,7,9
 Museokuja,,1,6
+Mustasaarentie,,29,76
+Muuraslammentie,,12,66
 Myllykatu,,1,10
 Mäkipääntie,,23,390
 Mäkiviinikankatu,,1,49
@@ -254,7 +263,7 @@ Saarijärventie,,8,94
 Sahatie,,29,47
 Salmenharjuntie,,70,144
 Salminniementie,,10,80
-Santahiedantie,,2,
+Santahiedantie,,2,56
 Sapelikatu,,1,11
 Sarkolantie,,14,169
 Satakunnankatu,,2,52
@@ -310,6 +319,7 @@ Valkeavuorentie,,65,241
 Vallinkuja,,4,
 Vallintie,,5,7
 Vanhantalontie,,3,470
+Vanhantöllintie,,6,29
 Varastokatu,,62,
 Vataja,,,
 Vatusentie,,16,147
