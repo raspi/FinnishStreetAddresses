@@ -20,7 +20,7 @@ Harontie,,,
 Haukitie,,10,
 Heikinperä,,3,
 Heikintie,,18,
-Heinolantie,,5,
+Heinolantie,,3,5
 Helukanlenkki,,6,28
 Helukantie,,,
 Hillakuja,,1,4
@@ -82,7 +82,7 @@ Kurunpisto,,4,
 Kuruntie,,1,45
 Kutsinhaara,,2,
 Kutsintie,,7,
-Kärpänkuja,,4,6
+Kärpänkuja,,4,10
 Lehontie,,2,29
 Lehtokaltiontie,,1,9
 Leiväntie,,2,6
@@ -96,7 +96,8 @@ Maahisentie,,1,17
 Majavankuja,,,
 Malintie,,5,9
 Martinkuja,,6,
-Martinsaarentie,,1,33
+Martinpisto,,2,4
+Martinsaarentie,,15,33
 Matintie,,4,
 Mellatie,,,
 Menninkäinen,,3,
@@ -104,11 +105,12 @@ Metsonkuja,,10,
 Metsonpolku,,1,12
 Metsäkummuntie,,1,11
 Metsäkurunpolku,,1,17
+Metsätievantie,,4,12
 Metsätuikuntie,,1,5
 Metsävalontie,,1,8
 Metsävelhonpolku,,1,7
 Metsäylläksentie,,4,8
-Muistomellantie,,4,12
+Muistomellantie,,4,16
 Myllylehdontie,,4,12
 Myyränkuja,,1,7
 Mäkeläntie,,,
@@ -119,6 +121,8 @@ Niliharju,,,
 Nilikaltio,,1,
 Nililahentie,,3,12
 Nilirinne,,,
+Nilitievantie,,1,4
+Nilivaarankuja,,1,
 Nilivaarantie,,1,62
 Oikopolku,,2,
 Ollintie,,1,13
@@ -142,7 +146,7 @@ Rantalantie,,1,12
 Rantatie,,,
 Raututie,,,
 Rautuvuomantie,,9,
-Reittitie,,2,11
+Reittitie,,3,11
 Revonkuja,,1,5
 Riekontie,,11,
 Riihentie,,1,6
@@ -171,6 +175,7 @@ Tappitie,,5,
 Tattipolku,,2,7
 Teerentie,,1,8
 Tervatie,,2,
+Tievarinne,,1,4
 Tiurajärventie,,1,2509
 Tossutie,,,
 Tunturintie,,5,82

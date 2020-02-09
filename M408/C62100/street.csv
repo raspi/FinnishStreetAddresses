@@ -79,7 +79,7 @@ Isoluomantie,,51,289
 Jaakonkatu,,1,10
 Jalminkatu,,1,17
 Jokiniementie,,1,14
-Jokipellontie,,2,8
+Jokipellontie,,1,8
 Jokitie,,476,585
 Joukontie,,1,69
 Juntantie,,1,13
@@ -143,7 +143,7 @@ Koskikaari,,1,11
 Koskisuvannontie,,3,13
 Kosolankatu,,1,
 Kotakuja,,8,
-Kotametsäntie,,3,5
+Kotametsäntie,,3,13
 Kotikoivunkuja,,1,4
 Koulukatu,,1,41
 Koulurannantie,,1,15
@@ -240,6 +240,7 @@ Metsäkiventie,,4,6
 Metsärannantie,,2,9
 Mettäkuja,,5,44
 Miiankuja,,1,3
+Miilutie,,,
 Mikinnevantie,,1,131
 Mikkiläntie,,9,85
 Mikontie,,4,14
@@ -419,6 +420,7 @@ Suutalantie,,1,17
 Suvantokaari,,1,14
 Syliheitontie,,1,5
 Syreenikuja,,5,23
+Sysikuja,,,
 Takakuja,,36,68
 Takaluomantie,,102,181
 Takamäentie,,3,19
@@ -428,7 +430,7 @@ Takkakuja,,1,14
 Talantie,,6,17
 Talonpojantie,,1,15
 Talvikintie,,1,
-Talvitienkuja,,2,
+Talvitienkuja,,2,4
 Tammirita,,2,4
 Tapanintie,,1,4
 Tapulikuja,,1,6

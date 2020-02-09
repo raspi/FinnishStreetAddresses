@@ -74,7 +74,7 @@ Lamunojantie,,,
 Lantontie,,4,
 Lappeankuja,,1,
 Lappeantie,,5,453
-Laukkatie,,4,4
+Laukkatie,,4,6
 Liisankuja,,2,
 Linjatie,,6,
 Lohi-Matintie,,2,8
@@ -85,7 +85,7 @@ Luosunkuja,,1,3
 Luosuntie,,77,159
 Mailankuja,,11,
 Majatie,,6,9
-Malvantie,,4,
+Malvantie,,2,4
 Mannentie,,1,
 Matinnivantie,,2,4
 Melakankaantie,,5,12
@@ -139,13 +139,14 @@ Riistapolku,,1,5
 Ristimellankuja,,3,
 Ruohoniementie,,8,20
 Ruuttikatu,,1,6
+Rönöläntie,,1,
 Saarentie,,2,14
 Sairaalantie,,2,13
 Sammalojantie,,2,9
 Sammuntie,,2,11
 Sepontie,,3,13
 Sepäntie,,2,
-Siltatie,,24,77
+Siltatie,,19,77
 Simuntie,,4,6
 Siukovuopiontie,,1,
 Siulatie,,6,
@@ -190,3 +191,5 @@ Ylläsjärventie,,19,128
 Äijämänniköntie,,6,
 Äkäsjoentie,,23,126
 Äkässaarentie,,1,3
+Ääverkuja,,,
+Ääverpolku,,1,5
