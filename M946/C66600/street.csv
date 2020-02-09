@@ -1,4 +1,5 @@
 street_fi,street_sv,lono,hino
+Alasuontie,Dalakärrvägen,,
 Aluntie,Alunvägen,3,230
 Arstutie,Arstuvägen,2,8
 Baggbergintie,Baggbergsvägen,2,46
@@ -6,6 +7,7 @@ Bertlininkuja,Bertlinsgränd,1,6
 Bläckhornsgränd,,3,
 Botniantie,Botniavägen,1,28
 Chikagovägen,,16,26
+Dalakärrgränd,Alasuonkuja,,
 Dalkarintie,Dalkarvägen,3,5
 Ehrsbackantie,Ehrsbackavägen,4,
 Eteläpellontie,Söderåkersvägen,9,55
@@ -37,6 +39,7 @@ Kuja,Gränden,1,27
 Kukkusintie,Kuckusvägen,1184,1223
 Käräjäkuja,Tingsgränd,3,
 Larvintie,Larvvägen,53,869
+Lissbackantie,Lissbackvägen,,
 Londintie,Londvägen,1,23
 Lotlaxintie,Lotlaxvägen,7,721
 Lukkarintie,Klockarvägen,4,9
@@ -49,6 +52,7 @@ Nikuksenkuja,Nikusgränd,4,
 Nikusbackintie,Nikusbackvägen,2,24
 Ohliksentie,Ohlisvägen,3,5
 Paasipolku,Klippstigen,1,4
+Palometsäntie,Brännskogsvägen,7,
 Peltokuja,Åkergränden,3,5
 Pohjoispellontie,Nordåkersvägen,1,3
 Poikkitie,Tvärvägen,23,134
@@ -71,6 +75,7 @@ Tunisintie,Tunisvägen,2,9
 Tähtipyöräntie,Stjärnhjulsvägen,3,
 Uudenpellontie,Nyåkersvägen,3,8
 Uusikatu,Nygatan,1,15
+Uusipellonkuja,Nyåkersgränd,,
 Vattupellontie,Hallåkersvägen,2,6
 Veteraanitie,Veteranvägen,1,11
 Vuorikuja,Berggränd,1,5
