@@ -1,8 +1,8 @@
 street_fi,street_sv,lono,hino
-Ahdetie,,7,30
+Ahdetie,,5,30
 Fänniläntie,,91,
 Fännintie,,8,161
-Hakamaantie,,5,30
+Hakamaantie,,,
 Henriikanpolku,,28,
 Hämetie,,7,
 Jokelantie,,28,230
@@ -22,6 +22,7 @@ Lahjantie,,51,55
 Marttalantie,,1,4
 Paavontie,,92,96
 Pehulantie,,6,148
+Potintie,,38,
 Pyhän Henrikintie,,245,1150
 Ritalantie,,39,
 Salorannantie,,29,47

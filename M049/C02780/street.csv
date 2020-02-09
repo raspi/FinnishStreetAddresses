@@ -61,6 +61,7 @@ Järvikyläntie,Träskbyvägen,1,22
 Kahvelikuja,Gaffelgränden,1,8
 Kahvelipolku,Gaffelstigen,1,
 Kahvelitie,Gaffelvägen,2,22
+Kallionalustantie,Kallionalustavägen,,
 Kallvikinkukkula,Kallvikkullen,2,6
 Kallvikinrinne,Kallviksbranten,4,10
 Kallvikintie,Kallviksvägen,1,3
@@ -114,7 +115,7 @@ Leiviskätie,Lispundsvägen,2,4
 Lindankuja,Lindagränden,2,4
 Loojärventie,Låjärvvägen,1,56
 Lusikkakuja,Skedgränden,,
-Lusikkatie,Skedvägen,,
+Lusikkatie,Skedvägen,1,9
 Läpisuontie,Kläppkärrsvägen,3,16
 Maakauppiaankuja,Lanthandlargränden,1,10
 Maakauppiaantie,Lanthandlarvägen,1,15
@@ -162,9 +163,9 @@ Pellavakuja,Lingränden,1,
 Peltomiehenkuja,Åkerbrukargränden,1,10
 Peltomiehentie,Åkerbrukarvägen,1,13
 Peringintie,Sperringsvägen,1,21
-Pestuukuja,Städsligsgränden,3,5
-Pestuuportti,Städslingsporten,,
-Pestuutie,Städslingsvägen,1,10
+Pestuukuja,Städsligsgränden,2,5
+Pestuuportti,Städslingsporten,2,
+Pestuutie,Städslingsvägen,1,16
 Pilkkumitie,Spilkumvägen,1,15
 Pirkanportti,Birkaporten,1,7
 Puikkarinkuja,,1,
