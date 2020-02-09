@@ -1,6 +1,6 @@
 street_fi,street_sv,lono,hino
 Ahertajankuja,,2,6
-Akseliväylä,,,
+Akseliväylä,,1,6
 Ala-Kuljun Katu,,1,9
 Alkionkatu,,3,
 Alvar Aallon Katu,,1,14
@@ -78,7 +78,7 @@ Laakeriväylä,,1,
 Larvalankatu,,2,
 Lastausväylä,,1,20
 Lastitie,,3,
-Lavaväylä,,,
+Lavaväylä,,1,7
 Lehdokinkuja,,1,8
 Lehdokinsola,,8,
 Lehtikuusenkatu,,1,11
@@ -180,7 +180,7 @@ Vasamakuja,,1,12
 Verkatehtaankatu,,1,13
 Vesitorninkatu,,1,5
 Vetoaisaväylä,,2,4
-Vetopöytäväylä,,2,4
+Vetopöytäväylä,,1,7
 Vetotappiväylä,,,
 Välikatu,,2,4
 Wegeliuksenkuja,,1,18

@@ -1,5 +1,6 @@
 street_fi,street_sv,lono,hino
-Asteritie,Astervägen,1,12
+Asteripolku,Asterstigen,2,
+Asteritie,Astervägen,2,12
 Erkki Melartinin Tie,Erkki Melartins Väg,1,11
 Eskolankuja,Eskosgränden,1,9
 Eskolanpolku,Eskosstigen,4,
@@ -20,7 +21,6 @@ Kehäkukanpolku,Ringblomsstigen,1,12
 Kehäkukantie,Ringblomsvägen,1,8
 Kenttäkuja,Fältgränden,1,12
 Kenttätie,Fältvägen,1,10
-Kinnarpurontie,Skinnarbäcksvägen,2,4
 Kisatie,Tävlingsvägen,1,7
 Kuismakuja,Lysingsgränden,1,4
 Kuismatie,Lysingsvägen,1,10
@@ -37,7 +37,7 @@ Palsamipolku,Balsaminstigen,1,10
 Pestikuja,Städjegränden,1,
 Pieksupolku,Pjäxstigen,1,5
 Pukinmäenaukio,Bocksbackaplanen,1,4
-Pukinmäenkaari,Bocksbackabågen,12,59
+Pukinmäenkaari,Bocksbackabågen,2,59
 Rapakivenkaari,Örstensbågen,3,
 Ratavallintie,Banvallsvägen,1,26
 Resedatie,Resedavägen,1,6
