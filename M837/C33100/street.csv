@@ -1,7 +1,7 @@
 street_fi,street_sv,lono,hino
 Ahlmanintie,,6,35
 Ainonkatu,,2,12
-Alaverstaanraitti,,1,13
+Alaverstaanraitti,,1,11
 Aleksanterinkatu,,5,37
 Aleksis Kiven Katu,,7,11
 Erkkilänkatu,,6,16
@@ -15,6 +15,7 @@ Hatanpäänkatu,,2,
 Hautausmaankatu,,2,6
 Helenankatu,,1,6
 Helenankuja,,3,
+Herrainmäenkuja,,2,4
 Huhtimäenkatu,,1,5
 Häkiläpolku,,1,6
 Hämeenkatu,,1,15
@@ -55,6 +56,7 @@ Käenkuja,,1,
 Lampitie,,1,53
 Lapintie,,1,32
 Laukontori,,2,
+Lavoniuksenraitti,,1,5
 Lempääläntie,,1,10
 Leppäkatu,,3,5
 Lokintaival,,2,13
@@ -134,11 +136,11 @@ Tullintori,,,
 Tuomiokirkonkatu,,1,40
 Turjankatu,,1,11
 Turpiininkatu,,1,3
-Törngrenin Aukio,,1,
+Törngrenin Aukio,,1,3
 Ukkopekankatu,,,
 Valimokatu,,10,
 Valssipadonraitti,,1,3
-Valumallinpolku,,2,12
+Valumallinpolku,,2,
 Varastokatu,,1,6
 Varpuspolku,,1,4
 Vellamonkatu,,1,10
