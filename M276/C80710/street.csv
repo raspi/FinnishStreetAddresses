@@ -1,6 +1,7 @@
 street_fi,street_sv,lono,hino
 Ahoksentie,,1,6
 Aholantie,,1,6
+Asuntorinteentie,,4,
 Autiolantie,,1,19
 Ellintie,,1,12
 Ensolantie,,1,19
@@ -97,7 +98,7 @@ Peltolantie,,2,14
 Peltopolku,,1,5
 Piianpolku,,1,9
 Pirkkasentie,,1,10
-Pohjatuulentie,,6,
+Pohjatuulentie,,2,64
 Poste Restante,,,
 Punostie,,1,5
 Puolukkapolku,,1,7
@@ -113,7 +114,7 @@ Riihitie,,1,40
 Ristisaarentie,,5,23
 Ruottisenahonkatu,,2,53
 Ruotutie,,1,22
-Saappanintie,,7,
+Saappanintie,,7,10
 Salontie,,1,7
 Sammalkatu,,2,9
 Sarkatie,,1,13
