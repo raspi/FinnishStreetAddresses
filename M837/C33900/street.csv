@@ -1,11 +1,13 @@
 street_fi,street_sv,lono,hino
 Antinkatu,,1,16
+Boijenkatu,,1,6
 Fontellinpolku,,5,9
-Gauffininkatu,,3,
+Gauffininkatu,,1,12
 Haapakuja,,1,5
-Hatanpään Puistokuja,,1,36
+Hatanpään Puistokuja,,7,36
+Hatanpään Puukuja,,1,
 Hatanpään Valtatie,,27,56
-Hatanpäänkatu,,1,28
+Hatanpäänkatu,,1,24
 Heikinkatu,,1,18
 Heiskalankatu,,1,28
 Hissikatu,,1,4
@@ -46,6 +48,8 @@ Nuolialantie,,1,71
 Nuutisarankatu,,1,35
 Orpolankuja,,2,8
 Patamäenkatu,,2,25
+Pehkiönkatu,,1,3
+Pehkiönkuja,,1,3
 Perkiönkatu,,1,85
 Petäjäkuja,,1,20
 Pihkanokankatu,,1,6
