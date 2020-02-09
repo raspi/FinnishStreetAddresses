@@ -15,7 +15,7 @@ Kalannintie,Kalantivägen,1,36
 Kanuunatie,Kanonvägen,1,21
 Karmiinikuja,Karmingränden,2,4
 Kasemattikuja,Kasemattgränden,1,6
-Katsastustie,Besiktningsvägen,4,
+Katsastustie,Besiktningsvägen,,
 Kaunismäenkuja,Fagerkullagränden,1,8
 Keriharju,Vikubacka,1,19
 Kimpipolku,Kimstigen,1,5
@@ -31,7 +31,7 @@ Kovelipolku,Holkjärnsstigen,1,18
 Kuninkaantammenaukio,Kungseksplatsen,1,6
 Kuninkaantammenkierto,Kungseksringen,1,22
 Kuninkaantammenkuja,Kungseksgränden,1,4
-Kuninkaantammenrinne,Kungseksbranten,3,
+Kuninkaantammenrinne,Kungseksbranten,2,5
 Kuninkaantammentie,Kungseksvägen,2,22
 Kuopuksentie,Minstingsvägen,5,
 Ladonlukonpolku,Ladulåsstigen,2,26
@@ -39,11 +39,12 @@ Lavettikuja,Lavettgränden,1,5
 Lavettitie,Lavettvägen,1,16
 Leilikuja,Lagelgränden,1,10
 Maavallintie,Jordskansvägen,1,35
-Maisemamaalauksenkatu,Landskapsmålningsgatan,3,
+Maisemamaalauksenkatu,Landskapsmålningsgatan,2,6
 Maljatie,Skålvägen,1,10
 Maununnevankaari,Magnuskärrsbågen,1,12
 Maununnevankuja,Magnuskärrsgränden,1,8
 Maununnevantie,Magnuskärrsvägen,1,54
+Muotokuvankatu,Porträttgatan,2,
 Mörssäriaukio,Mörsarplatsen,1,3
 Nelikkokuja,Fjärdingsgränd,1,4
 Okrakuja,Ockrangränden,1,4

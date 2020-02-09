@@ -1,7 +1,7 @@
 street_fi,street_sv,lono,hino
 Aku Korhosen Tie,Aku Korhonens Väg,2,8
 Hopeatie,Silvervägen,1,20
-Kaupinmäenpolku,Krämarbackastigen,6,14
+Kaupinmäenpolku,Krämarbackastigen,6,16
 Kaupintie,Krämarvägen,2,24
 Kauppurinpolku,Hökarestigen,2,
 Killinkipolku,Skillingstigen,1,
@@ -29,6 +29,7 @@ Schildtinpolku,Schildtsstigen,2,9
 Sentnerikuja,Centnergränden,1,6
 Taalaripolku,Dalerstigen,2,
 Tinatie,Tennvägen,1,9
-Vaakakuja,Våggränden,3,
+Vaakakuja,Våggränden,1,3
+Vaakapolku,Vågstigen,2,
 Vaakatie,Vågvägen,3,11
 Äyripolku,Örtugestigen,1,
