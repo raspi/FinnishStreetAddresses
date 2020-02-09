@@ -1,5 +1,6 @@
 street_fi,street_sv,lono,hino
 Aarrekartantie,Skattkartsvägen,,
+Alustalaisentie,Underhavandevägen,,
 Arpaonnenkuja,Lotterigränden,1,9
 Asgård,,3,37
 Bassenkuja,Bassegränden,1,
@@ -76,7 +77,7 @@ Kauppamäki,Handelsbacken,1,10
 Kauppiaantanhua,Köpmanstået,2,
 Klippinkitie,Klippingsvägen,1,9
 Koikorvenpolku,Koikärrsstigen,3,7
-Komutintie,Kommodvägen,,
+Komutintie,Kommodvägen,4,
 Kristallikuja,Kristallgränden,2,14
 Kristallitie,Kristallvägen,2,12
 Kumppaninkuja,Partnersgränden,1,6
@@ -112,6 +113,8 @@ Laukkupolku,Ränselstigen,1,22
 Leiviskätie,Lispundsvägen,2,4
 Lindankuja,Lindagränden,2,4
 Loojärventie,Låjärvvägen,1,56
+Lusikkakuja,Skedgränden,,
+Lusikkatie,Skedvägen,,
 Läpisuontie,Kläppkärrsvägen,3,16
 Maakauppiaankuja,Lanthandlargränden,1,10
 Maakauppiaantie,Lanthandlarvägen,1,15
@@ -132,6 +135,7 @@ Muulonranta,Mulbystranden,1,5
 Myntinmäki,Myntbacken,1,8
 Myntinsyrjä,Myntliden,2,10
 Mynttiläntie,Myntbölevägen,2,20
+Mäkituvankuja,Backstugugränden,,
 Mäkituvantie,Backstuguvägen,1,9
 Mänkimiehentie,Mängkarlsvägen,2,21
 Nahkakuja,Skinngränden,3,7
@@ -149,6 +153,7 @@ Ouritie,Örvägen,4,6
 Paasikorvenkuja,Hällkärrsgränden,1,9
 Pakaasiranta,Bagagestranden,1,11
 Pakarituvantie,Bagarbodsvägen,1,5
+Palkollisentie,Legohjonsvägen,,
 Palolammentie,Palolampivägen,6,
 Palttinapolku,Lärftstigen,1,8
 Peilikuja,Spegelgränden,3,9
@@ -183,6 +188,7 @@ Santapellontie,Sandåkersvägen,1,14
 Satulamaakarintie,Sadelmakarbacken,1,18
 Saunaniemenkuja,Bastunäsgränden,4,7
 Saunaniementie,Bastunäsvägen,2,14
+Seunapolku,Vältstocksstigen,,
 Sierakiventie,Brynstensvägen,2,16
 Simaportti,Mjödporten,1,11
 Sisämaantie,Inlandsvägen,1,36
