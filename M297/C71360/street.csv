@@ -1,5 +1,5 @@
 street_fi,street_sv,lono,hino
-Aittosalmentie,,34,54
+Aittosalmentie,,2,54
 Eteläpääntie,,68,140
 Hartikanranta,,18,56
 Hiijenlinnantie,,52,88
@@ -29,7 +29,7 @@ Koirniementie,,92,321
 Koivurannantie,,,
 Kuikanranta,,19,33
 Lippolantie,,13,165
-Litmakaarre,,45,
+Litmakaarre,,45,70
 Litmaniemen Einesalo,,34,414
 Litmaniementie,,324,1825
 Mansikkakivi,,10,28
@@ -48,7 +48,8 @@ Pohjoisniemi,,115,
 Pukinlahdentie,,50,
 Pukinlahti,,,
 Punnanpolku,,9,38
-Purolantie,,20,
+Purolanlähdetie,,10,30
+Purolantie,,,
 Rajakummuntie,,35,
 Rinnepurontie,,4,38
 Roikankuja,,16,42
