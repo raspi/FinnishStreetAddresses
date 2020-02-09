@@ -1,7 +1,8 @@
 street_fi,street_sv,lono,hino
-Ahoistentie,,17,24
+Ahoistentie,,17,487
 Ahonen,,,
 Aitio,,3,5
+Akankaivontie,,118,
 Ali-Penttiläntie,,1,21
 Alimmaistentie,,8,10
 Apilapolku,,1,5
@@ -34,19 +35,24 @@ Iso-Nevilä,,,
 Isonkoivuntie,,1,9
 Jaakonpolku,,1,9
 Jatulintie,,42,
+Jokiniementie,,73,344
 Järvilehdontie,,4,102
 Kaakonkulmantie,,50,150
+Kaivotie,,1,6
 Kaloinen,,,
 Kaloistenrivi,,,
 Kanttorintie,,4,
 Kappelintie,,1,23
 Karhulantie,,14,24
 Karhumäentie,,32,223
+Kaskiholmantie,,67,89
 Katajamäentie,,1,15
 Kaunolantie,,70,
+Kenttätie,,1,7
 Kermintie,,10,22
 Keskuskuja,,1,4
 Kiikkarantie,,3,114
+Kiilintie,,1,
 Kilpisentie,,10,611
 Kiusamäentie,,23,91
 Kivikalliontie,,3,160
@@ -59,6 +65,7 @@ Komerintie,,16,
 Konkintie,,2,91
 Korpelantie,,23,35
 Korventie,,78,
+Koskipääntie,,6,71
 Kotakalliontie,,,
 Kouvalantie,,43,
 Kuittila,,,
@@ -74,6 +81,7 @@ Käräjäpolku,,1,15
 Käräjärinne,,1,6
 Käräjätie,,6,
 Laamannintie,,2,15
+Lahdenperäntie,,17,
 Lautakuja,,2,6
 Lautamiehenrinne,,1,6
 Lauttia,,,
@@ -83,9 +91,12 @@ Lehtimäentie,,24,38
 Leipomontie,,3,13
 Lepomäentie,,14,112
 Leppäpolku,,1,
+Leppäsentie,,12,34
+Lepäntie,,1,6
 Leveämäentie,,8,22
 Lietsa,,,
 Likolammintie,,1,13
+Lintumäentie,,54,
 Loistilantie,,15,31
 Loukanen,,,
 Loukastentie,,1,175
@@ -99,6 +110,7 @@ Mankelimäki,,,
 Mankelinmäki,,,
 Mankelirinne,,10,28
 Meijeri,,,
+Mertapadontie,,47,185
 Metsäpeuranpolku,,2,28
 Metsäpietiläntie,,7,339
 Mullintie,,3,10
@@ -115,21 +127,25 @@ Nevilä,,,
 Nevilän Mylly,,,
 Niemelä,,,
 Niemeläntie,,5,
+Niittymäentie,,96,
 Nuutilantie,,15,147
 Ohrapolku,,1,7
 Oikopolku,,2,
+Oikotie,,1,5
 Oinaala,,,
-Ojalanpolku,,28,40
-Ollantie,,7,111
+Ojalanpolku,,28,158
+Ollantie,,7,169
 Ootajoentie,,10,
 Paappala,,,
 Palavaisentie,,70,216
 Palstatie,,6,22
 Pellavapolku,,1,4
+Pellonpääntie,,1,
 Peltokuja,,1,7
 Peltomäentie,,3,53
 Perunatie,,5,29
 Pietarinpolku,,59,
+Pirttikalliontie,,28,55
 Pitkätaipaleentie,,110,
 Portaankorva,,,
 Poste Restante,,,
@@ -149,6 +165,7 @@ Rasintie,,3,555
 Rastaanpolku,,1,6
 Rauhalantie,,37,75
 Raunionrinne,,3,3
+Rekoharjuntie,,2,10
 Rengonraitti,,1,144
 Rietajärventie,,199,259
 Riihikalliontie,,2,
@@ -165,6 +182,8 @@ Seppäläntie,,35,55
 Seunakorventie,,34,98
 Sileenintie,,2,75
 Sillankorvantie,,46,110
+Sotka,,,
+Suoniityntie,,8,34
 Suutarintie,,1,19
 Suvirinne,,5,35
 Tallimäentie,,20,283
@@ -180,10 +199,11 @@ Tulinummi,,4,
 Tuomarinpolku,,1,8
 Tuomarinrinne,,1,8
 Tuomenkoskentie,,40,
+Turun Valtatie,,857,2704
 Tähkäpolku,,1,7
 Urheilutie,,2,5
 Uusimäentie,,12,350
-Uusitalontie,,10,31
+Uusitalontie,,10,67
 Vahteristonmyllytie,,88,154
 Vaimareentie,,4,71
 Valajantie,,34,420
@@ -198,8 +218,10 @@ Viialantie,,,
 Viljaankoskentie,,45,93
 Viralantie,,860,938
 Visapolku,,6,
+Vojakkalantie,,60,432
 Voudintie,,23,
 Vuorensyrjäntie,,28,122
+Vähätalontie,,20,1010
 Väinönrinne,,1,3
 Ylimmäinen,,,
 Ylimmäisentie,,1,937
