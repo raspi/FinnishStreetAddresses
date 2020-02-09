@@ -14,8 +14,10 @@ Eetuntie,Eetuvägen,8,33
 Ekohumlantie,Ekohumlavägen,37,77
 Epoontie,Ebbovägen,84,801
 Etelälahdentie,Söderviksvägen,6,77
+Fallholmen,,4,148
 Fasaanikuja,Fasangränden,4,12
 Flakaörarna,,4,
+Granön,,10,170
 Grundvikintie,Grundviksvägen,53,358
 Grännäsintie,Grännäsvägen,,
 Gäddragintie,Gäddragsvägen,33,492
@@ -24,6 +26,7 @@ Hanhilammentie,Gåsträsksvägen,4,39
 Harjukaari,Åsbågen,1,116
 Harppuniementie,Harpuddsvägen,144,
 Haukkumäentie,Skällbergsvägen,3,144
+Haverholmen,,2,132
 Hissunkissuntie,Hyssvägen,4,123
 Humleberginpolku,Humlebergsstigen,20,50
 Humlebergintie,Humlebergsvägen,24,200
@@ -34,6 +37,7 @@ Huvilatie,Villavägen,1,104
 Hässjeholmen,,2,110
 Håbackantie,Håbackavägen,33,232
 Isojärventie,Storträskvägen,2,40
+Jakarin Svartholmen,Jackarby Svartholmen,66,88
 Jakarintie,Jackarbyvägen,153,270
 Jeppaksentie,Jeppasvägen,1,24
 Jonnaksentie,,3,28
@@ -41,7 +45,9 @@ Jyrkänniementie,Brantuddsvägen,11,121
 Järvitie,Träskvägen,18,82
 Kaarenkierto,Bågsvängen,7,
 Kalamajantie,Fiskestuguvägen,37,
+Kalvholmen,,24,260
 Kannaksentie,Kannasvägen,20,
+Kardragin Långholmen,Kardrag Långholmen,30,
 Kardragin Rantatie,Kardrags Strandväg,1,180
 Karhukorventie,Karhukorpivägen,3,416
 Karhunlaukantie,Ramsviksvägen,1,207
@@ -54,11 +60,14 @@ Kaupunginhaka,Stadshagen,2,35
 Keinuvuorentie,Gungbergsvägen,5,61
 Kiilatie,Kilvägen,8,120
 Kissankulma,Kattkanten,2,60
+Klovholmen,,40,
 Klubitie,Klubbvägen,5,46
 Koivulaaksontie,Björkdalsvägen,24,253
 Kolmassivu,Tredjesidan,1,26
 Kolmenkalliontie,Trebergavägen,19,
+Korsö,,8,750
 Korsön,,,
+Korsön Brändholmen,Korsö Brändholmen,56,
 Kroksnäsintie,Kroksnäsvägen,2,668
 Kråköntie,Kråkövägen,6,109
 Kulorastaantie,Dubbeltrastvägen,1,8
@@ -68,6 +77,7 @@ Kurkelantie,Kurkelavägen,9,77
 Kyläkatu,Bygatan,1,24
 Kyläpolku,Bystigen,6,41
 Kylätie,Byvägen,6,26
+Käringören,,20,
 Käärmekuusentie,Ormgransvägen,2,49
 Köttbodantie,Köttbodavägen,3,65
 Laajasuonpolku,Degermossastigen,2,42
@@ -75,8 +85,10 @@ Laajasuontie,Degermossavägen,4,107
 Laduholmen,,2,96
 Laulurastaantie,Taltrastvägen,1,11
 Levojärventie,Levojärvivägen,1,165
+Likesholmen,,4,
 Lilla Hässjeholmen,,4,
 Lilla Svartholmen,,38,
+Lilla Svedjeholmen,,26,40
 Lillkroksintie,Lillkroksvägen,6,35
 Lindnäsintie,Lindnäsvägen,10,43
 Lippukalliontie,Flaggbergsvägen,12,53
@@ -90,6 +102,7 @@ Långholminpolku,Långholmsstigen,14,
 Långholmintie,Långholmsvägen,279,464
 Långvikinniementie,Långviksuddsvägen,20,80
 Långvikintie,Långviksvägen,63,184
+Långören,,24,
 Löfvingintie,Löfvingsvägen,22,185
 Lökuddintie,Lökuddsvägen,12,71
 Majvikintie,,217,251
@@ -106,6 +119,7 @@ Myllypurontie,Kvarnbäcksvägen,68,76
 Mäntytie,Tallvägen,8,74
 Möholmintie,Möholmsvägen,6,112
 Norikentie,Norikevägen,146,148
+Norra Tavastholmen,,4,
 Nybackanpolku,Nybackastigen,30,57
 Nybackantie,Nybackavägen,12,182
 Nybondaksentie,Nybondasvägen,4,49
@@ -116,11 +130,14 @@ Olofsbergintie,Olofsbergsvägen,3,57
 Pallograniitintie,Klotgranitsvägen,66,
 Partiopoukamantie,Partiopoukamavägen,24,110
 Pensaskertunkuja,,2,4
+Piirlahden Falkholmen,Pirlax Falkholmen,10,166
+Piirlahden Högholmen,Pirlax Högholmen,,
 Pikkuaidantie,Smågärdsvägen,3,19
 Pikkulammentie,Lillträsksvägen,2,20
 Pitkäluodontie,Långörnsvägen,1,9
 Pitkämalmintie,Långmalmsvägen,85,229
 Pitkäraitti,Långstråket,11,15
+Pohjoinen Bånholmen,Norra Bånholmen,14,
 Punasuontie,Rödkärrsvägen,3,72
 Pyykkärinpolku,Bykerskestigen,12,61
 Raittiuskuja,Nykterhetsgränden,3,14
@@ -145,8 +162,10 @@ Råuddintie,Råuddsvägen,6,10
 Sarvaksentie,Sarvasvägen,4,42
 Sepelrastaantie,Ringtrastvägen,1,8
 Sillholmen,,34,
-Siperholmen,,62,
+Siperholmen,,30,62
 Skavarbölentie,Skavarbölevägen,4,360
+Slekesholmen,,26,
+Småholmarna,,24,
 Snäckvikintie,Snäckviksvägen,51,310
 Sommarintie,Sommarivägen,1,16
 Sondbyn Brännholmarna,Sondby Brännholmarna,14,72
@@ -156,6 +175,8 @@ Stackholmen,,8,50
 Staffaksentie,Staffasvägen,2,54
 Stensbölentie,Stensbölevägen,19,
 Stenvikintie,Stenviksvägen,2,17
+Stora Gåsören,,62,90
+Stora Högholmen,,4,96
 Stora Svartholmen,,18,124
 Storholmen,,12,54
 Storknutsintie,Storknutsvägen,19,125
@@ -163,12 +184,14 @@ Stormalmenintie,Stormalmsvägen,1,115
 Storuddintie,Storuddsvägen,23,360
 Strandbackantie,Strandbackavägen,5,46
 Strandtorpintie,Strandtorpsvägen,1,59
+Strömmingsholmen,,6,
 Strömsintie,Strömsvägen,9,204
 Suoniityntie,Kärrmossavägen,38,44
 Suoraniementie,Suoraniemivägen,2,27
 Susisuontie,Vargmossavägen,2,36
 Suvitie,Sommarvägen,5,45
 Svartholmen,,2,66
+Svedjeholmen,,2,198
 Säynelahdentie,Idviksvägen,3,37
 Tackholmarna,,44,
 Tapaninkuja,Stefansgränden,2,14
@@ -194,6 +217,10 @@ Virvikintie,Virviksvägen,43,438
 Voolahdentie,Vålaxvägen,87,523
 Västerkullantie,Västerkullavägen,1,64
 Västernäsintie,Västernäsvägen,41,173
+Västra Rönnskär,,56,
 Ylikentie,Ylikevägen,137,970
+Åbyn Halsholmen,Åby Halsholmen,24,90
 Åbyn Kartano,Åby Gård,7,
+Ånholmen,,6,22
 Örnvikintie,Örnviksvägen,5,147
+Östra Rönnskär,,100,
