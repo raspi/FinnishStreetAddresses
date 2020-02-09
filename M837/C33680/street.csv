@@ -1,6 +1,6 @@
 street_fi,street_sv,lono,hino
 Ahvenlammintie,,12,43
-Aitokalliontie,,5,23
+Aitokalliontie,,5,49
 Aitoniemenranta,,12,27
 Aitoniementie,,15,820
 Ala-Suoniemen Tie,,29,69
@@ -15,7 +15,7 @@ Haukilahdentie,,9,18
 Heinontie,,13,36
 Heinäinpesäntie,,5,128
 Heinäsenniityntie,,12,19
-Heinäsentie,,22,50
+Heinäsentie,,10,50
 Hietalahdentie,,7,21
 Hinkkalantie,,12,32
 Hirsimoisiontie,,1,32
@@ -24,8 +24,8 @@ Hirviniemenranta,,39,54
 Hirviniementie,,19,524
 Hurmajärventie,,6,20
 Hypönniemi,,5,42
-Hyötyvoimankatu,,6,
-Hyötyvoimankuja,,1,
+Hyötyvoimankatu,,1,6
+Hyötyvoimankuja,,1,8
 Härkälähteentie,,18,56
 Ison Lumojan Tie,,16,32
 Itälahdenranta,,29,
@@ -58,7 +58,7 @@ Kivisaari,,2,
 Kivitokeenlahti,,4,26
 Koikantie,,6,12
 Koivuniementie,,5,91
-Kolunkyläntie,,340,446
+Kolunkyläntie,,340,402
 Korvenpääntie,,36,72
 Korventuvantie,,21,42
 Korvenvuorenhaara,,14,33
@@ -69,6 +69,7 @@ Kuivaniementie,,8,35
 Kupinniemenranta,,9,27
 Kupintie,,10,155
 Köllintie,,4,82
+Laitakorvenkatu,,1,
 Laivarannanmäki,,2,24
 Latohuhdantie,,7,190
 Lauritanhua,,4,78
@@ -82,6 +83,7 @@ Lintuniementie,,28,170
 Lumokorventie,,7,160
 Lumoniementie,,39,95
 Luomankuja,,8,17
+Mineraalitie,,1,5
 Mustikkamäentie,,9,42
 Myllymaantie,,106,218
 Mäkikyläntie,,15,70
@@ -119,6 +121,7 @@ Sulkontie,,8,30
 Suviristintie,,3,153
 Syväjärventie,,3,234
 Tarastenjärventie,,13,23
+Tarastentie,,1,9
 Tervakiventie,,5,370
 Tervasuontie,,17,62
 Turveluomantie,,22,106
@@ -133,6 +136,7 @@ Vaavunniementie,,106,108
 Vaavunniitty,,28,
 Valontie,,3,15
 Vanha-Savon Tie,,1,80
+Vernamontie,,22,44
 Vierukalliontie,,3,80
 Viitapohja,,267,
 Viitapohjantie,,566,935
