@@ -1,6 +1,6 @@
 street_fi,street_sv,lono,hino
 Ahjolantie,,3,
-Aittatie,,1,20
+Aittatie,,1,8
 Aittokankaantie,,108,
 Aittokyläntie,,1222,1308
 Alajoentie,,26,193
@@ -38,7 +38,7 @@ Kanaperäntie,,46,224
 Kanavatie,,4,88
 Karilanpolku,,3,
 Karilantie,,1,7
-Karjakuja,,3,
+Karjakuja,,,
 Karkulehdontie,,6,321
 Kauppakatu,,5,
 Kauppilantie,,16,56
@@ -54,9 +54,10 @@ Kontiontie,,47,69
 Konttilantie,,1,27
 Kopolantie,,1,14
 Koposenperäntie,,76,581
+Korkatinkuja,,3,
 Koskelantie,,18,122
 Kotiniementie,,29,190
-Koulutie,,1,
+Koulutie,,1,15
 Kukkuratie,,40,
 Kummuntie,,10,252
 Kunnaantie,,8,
@@ -90,6 +91,7 @@ Ojalehdontie,,60,836
 Ojantakasentie,,3,43
 Oksatie,,3,
 Ollintie,,1,12
+Opintie,,5,
 Ouluntie,,12,1079
 Paanutie,,2,4
 Pajalantie,,270,
@@ -121,7 +123,7 @@ Saarelantie,,145,
 Saarentie,,1,30
 Sakuntie,,2,16
 Salontie,,57,
-Saunatie,,1,27
+Saunatie,,1,24
 Saviseläntie,,12,69
 Seppäläntie,,43,
 Sydänmaantie,,24,853
