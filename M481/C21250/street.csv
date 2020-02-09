@@ -108,8 +108,8 @@ Kennelkuja,,7,
 Kenttäkuja,,4,
 Keskuskaari,,1,9
 Kesärannantie,,3,5
-Ketomaankuja,,1,
-Ketomaantie,,1,6
+Ketomaankuja,,1,6
+Ketomaantie,,,
 Kielonkuja,,1,
 Kihokkikuja,,1,6
 Kiisankuja,,1,5
@@ -340,6 +340,7 @@ Simolankuja,,1,10
 Simolantie,,4,57
 Sirkiäntie,,4,26
 Sirkkutie,,1,4
+Sofiankuja,,6,
 Sointutie,,1,4
 Soittilantie,,24,32
 Sopolantie,,3,93

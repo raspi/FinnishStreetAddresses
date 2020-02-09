@@ -50,8 +50,8 @@ Neljännestie,Fjärdingsvägen,,
 Nimismiehentie,Länsmansvägen,1,5
 Norrängintie,Norrängsvägen,1,5
 Oikotie,Ginstigen,2,171
-Oksatie,Kvistvägen,4,5
-Paviljongintie,Paviljongvägen,12,18
+Oksatie,Kvistvägen,4,12
+Paviljongintie,Paviljongvägen,12,
 Pihlajatie,Rönnvägen,1,6
 Pixnenkuja,Pixnegränd,1,9
 Pixnentie,Pixnevägen,2,70
@@ -64,6 +64,7 @@ Storängintie,Storängsvägen,2,97
 Storåkersintie,Storåkersvägen,5,
 Svartövägen,,289,
 Talvisillantie,Vinterbrovägen,99,137
+Tammikuja,Ekgränd,5,
 Tammitie,Ekvägen,2,14
 Tamppitie,Stampvägen,1,
 Teollisuustie,Industrivägen,1,16
