@@ -1,6 +1,7 @@
 street_fi,street_sv,lono,hino
 Alajärventie,,41,
 Alavanraitti,,13,65
+Asumajärventie,,1,3
 Etuvääränpolku,,63,67
 Heikkilänraitti,,63,145
 Huaveenpiä,,38,
@@ -10,7 +11,7 @@ Hölökkäläntie,,9,70
 Itälahti,,77,95
 Itäranta,,14,
 Joensuuntie,,2127,2129
-Jokelantie,,350,404
+Jokelantie,,350,
 Jokiniementie,,103,
 Juurusvedentie,,25,39
 Kaarinkalliontie,,8,48
@@ -18,7 +19,7 @@ Kaarinlahdentie,,73,
 Kaarinniementie,,19,170
 Kaijanmäentie,,20,136
 Kalamiehentie,,13,33
-Kallioharjuntie,,32,79
+Kallioharjuntie,,29,
 Karhonniemen Sormusensaari,,1,
 Karhonniementie,,93,220
 Karhonveden Koivu-Lyntti,,38,112
@@ -55,7 +56,7 @@ Myrkkylahti,,7,43
 Mäentie,,29,39
 Mäkipolku,,25,
 Neljänsavuntie,,39,49
-Niittykannankuja,,,
+Niittykannankuja,,101,109
 Niittylahdentie,,267,800
 Niittymäentie,,7,
 Pelonniemen Lamposaari,,59,161
