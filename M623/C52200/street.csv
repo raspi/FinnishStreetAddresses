@@ -1,6 +1,6 @@
 street_fi,street_sv,lono,hino
 Aholantie,,17,139
-Airotie,,2,14
+Airotie,,1,14
 Alakortteentie,,9,31
 Alhotie,,1,3
 Ankkoinsalo,,,
@@ -12,7 +12,7 @@ Autiontie,,57,57
 Auvila,,,
 Auvilantie,,53,
 Avokidanniementie,,208,952
-Eteläkaari,,6,
+Eteläkaari,,6,10
 Haapalammintie,,31,207
 Haapatie,,1,6
 Haikanniementie,,60,60
@@ -151,10 +151,10 @@ Lietvesi,,,
 Liimatanlahdentie,,164,
 Liimattala,,,
 Liimattalantie,,51,293
-Liisankuja,,3,6
+Liisankuja,,1,6
 Likasaarentie,,7,120
 Likasaari,,,
-Linjakuja,,1,4
+Linjakuja,,1,6
 Lintusalo,,,
 Lintusalontie,,15,1702
 Lohentie,,10,211
@@ -168,7 +168,7 @@ Luotolahdentie,,215,
 Luukkola,,,
 Luukkolankyläntie,,23,258
 Luukkolantie,,14,1830
-Länsikaari,,4,15
+Länsikaari,,2,15
 Läpikivenniementie,,166,240
 Mammosentie,,57,
 Mariniementie,,83,
@@ -202,6 +202,7 @@ Niittylahdentie,,30,
 Niskalammentie,,6,28
 Norpantie,,14,16
 Nousjärventie,,80,108
+Närtejärventie,,35,
 Oikotie,,1,7
 Ojakuja,,2,4
 Oritjoentie,,6,54
@@ -227,8 +228,7 @@ Piitsniementie,,85,
 Pilkanniementie,,217,
 Pirttimäentie,,108,495
 Pirttimäki,,,
-Pohjoiskaarentie,,,
-Pohjoiskaari,,4,14
+Pohjoiskaari,,2,14
 Poste Restante,,,
 Puumala,,,
 Pytäräntie,,128,260
@@ -238,7 +238,7 @@ Raitakalliontie,,6,148
 Rannantie,,42,50
 Rantalantie,,90,
 Rasikankaantie,,46,220
-Rauhantie,,3,5
+Rauhantie,,3,6
 Rehmainniementie,,124,146
 Repola,,,
 Repolantie,,35,596

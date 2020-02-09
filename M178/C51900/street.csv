@@ -14,7 +14,7 @@ Haikaranseläntie,,17,99
 Halla-Ahontie,,45,
 Hampunjoentie,,23,117
 Hannukantie,,1,6
-Harjutie,,8,
+Harjutie,,2,8
 Hasamäentie,,32,
 Heinäkuja,,1,8
 Heinämäentie,,36,296
@@ -44,7 +44,7 @@ Jukajärventie,,3,5
 Juoningantie,,4,750
 Jussilantie,,18,42
 Jussintie,,1,6
-Juvantie,,2,80
+Juvantie,,2,82
 Jyrinaho,,,
 Jyrinahontie,,25,1496
 Kaarnarinteentie,,25,57
@@ -64,7 +64,7 @@ Katinhännäntie,,1,7
 Kauneelantie,,23,31
 Kaunokkikuja,,1,7
 Kauppakuja,,1,3
-Kauraniementie,,2,21
+Kauraniementie,,1,21
 Keisarintie,,10,10
 Kellosepänkuja,,2,4
 Kesakontie,,14,
@@ -188,7 +188,7 @@ Poppiuksentie,,4,6
 Poste Restante,,,
 Puikkasenkuja,,3,11
 Puikkasenraitti,,1,6
-Puikkasentie,,1,38
+Puikkasentie,,1,47
 Purholantie,,13,101
 Purolantie,,63,107
 Purotie,,1,
@@ -200,6 +200,7 @@ Pyydystie,,1,3
 Pyypolku,,2,
 Päivärannantie,,21,24
 Pöyhöläntie,,39,
+Raili Kostian Tie,,2,
 Rantamajantie,,50,56
 Rantatie,,,
 Raviradantie,,6,
@@ -212,10 +213,10 @@ Roihantie,,10,53
 Romumäentie,,37,37
 Rossintie,,2,17
 Runonlaulajanpolku,,5,
-Runonlaulajantie,,39,111
+Runonlaulajantie,,39,123
 Ruskoniementie,,4,
 Rutkonmäentie,,156,187
-Saariseläntie,,25,109
+Saariseläntie,,25,138
 Sairaalatie,,1,8
 Salmela,,,
 Salmelantie,,2,309
@@ -281,8 +282,8 @@ Viialanpolku,,2,51
 Viiasentie,,38,82
 Viitakoskentie,,99,338
 Viitostie,,28,720
-Villentie,,1,10
-Virastotie,,2,7
+Villentie,,1,16
+Virastotie,,1,7
 Virpelänniementie,,20,87
 Voudinpolku,,1,12
 Vuorikankaantie,,20,126
