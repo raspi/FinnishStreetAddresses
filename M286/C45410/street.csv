@@ -1,4 +1,5 @@
 street_fi,street_sv,lono,hino
+Aarnikotkantie,,1,
 Ahonlaita,,51,
 Arvilankuja,,16,46
 Asutustie,,3,16
@@ -16,6 +17,7 @@ Iisakkalankuja,,4,112
 Joukaisenkuja,,2,57
 Kalakiventie,,5,21
 Kalliorinteentie,,1,12
+Kapitlaivantie,,1,5
 Karpalopolku,,1,11
 Karstunkuja,,51,99
 Kattilaharjuntie,,47,510
@@ -26,6 +28,8 @@ Kiltapolku,,3,30
 Kipparilantie,,16,490
 Kirvesmiehentie,,1,10
 Kirvuntie,,2,6
+Komentajankuja,,,
+Komppaniantie,,,
 Kopterikuja,,45,65
 Kosteikkokuja,,2,62
 Kuivalantie,,2,539
@@ -56,6 +60,7 @@ Putamantie,,9,30
 Pyötsiänpolku,,6,59
 Ranta-Utintie,,34,186
 Rantojankuja,,7,75
+Räimälänkuja,,,
 Salmenvuorentie,,8,70
 Sarkastentie,,2,35
 Seppäläntie,,17,99
@@ -71,6 +76,8 @@ Tuuliniementie,,3,233
 Tyrrin Ampumakeskus,,90,
 Tyrrintie,,127,386
 Tyynelänpolku,,5,111
+Upseerikerhontie,,,
+Utinaukio,,,
 Utinsuotie,,146,
 Utintie,,107,480
 Vaihdekuja,,1,45

@@ -17,7 +17,7 @@ Hautasentie,,12,40
 Havilantie,,1,12
 Helatie,,1,11
 Hemminginmäentie,,14,52
-Hemmingintie,,34,64
+Hemmingintie,,34,60
 Hermanninkuja,,2,8
 Hermannintie,,1,12
 Hevoshaantie,,18,32
@@ -36,7 +36,7 @@ Iivarintie,,37,44
 Ikolanlarva,,2,8
 Ikolantie,,3,41
 Isokoskentie,,17,776
-Isonevantie,,1,108
+Isonevantie,,21,108
 Jalastie,,1,4
 Jaskarintie,,2,64
 Jokirannantie,,15,35
@@ -55,7 +55,7 @@ Kankaantie,,14,24
 Kannaksentie,,2,14
 Kannikontie,,3,5
 Kannonkolo,,8,
-Kantolantie,,2,33
+Kantolantie,,2,32
 Kappelintie,,1,11
 Kardiinintie,,1,15
 Karhitie,,1,34
@@ -100,7 +100,7 @@ Latikantie,,8,40
 Lehtipuuntie,,5,31
 Lekatie,,4,6
 Lemmontie,,1,10
-Leppilahdentie,,2,144
+Leppilahdentie,,10,144
 Lihtikuja,,3,
 Lohnakuja,,1,7
 Loukkukuja,,1,6
@@ -109,8 +109,8 @@ Luhtikuja,,1,4
 Luomannintie,,1,37
 Länkikuja,,1,9
 Länsipuolentie,,720,766
-Länsitie,,5,743
-Maalarintie,,1,6
+Länsitie,,6,743
+Maalarintie,,1,
 Mannilankyläntie,,24,50
 Manunkyläntie,,8,107
 Martikkala,,,
@@ -195,7 +195,7 @@ Valkamantie,,25,39
 Valkiavuorentie,,1,20
 Valurintie,,1,9
 Vasaratie,,1,9
-Vesperinmäki,,39,41
+Vesperinmäki,,41,
 Viisastenkuja,,1,5
 Viljatie,,1,4
 Vähämäentie,,66,
