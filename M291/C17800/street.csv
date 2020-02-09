@@ -25,7 +25,7 @@ Heretyntie,,22,128
 Hevosniementie,,110,110
 Hietamäentie,,30,146
 Hietasentie,,118,
-Hirsivalkamantie,,,
+Hirsivalkamantie,,1,33
 Hirvijärventie,,147,610
 Hirviniementie,,138,302
 Hiukkolansaarentie,,106,537
@@ -46,7 +46,7 @@ Juuristo,,,
 Kaijantie,,72,
 Kaiterlahdentie,,56,359
 Kajava,,,
-Kammiolammentie,,43,247
+Kammiolammentie,,142,192
 Kangasjärventie,,25,32
 Kankaantakusentie,,3,89
 Karhunkorventie,,61,63
@@ -55,7 +55,7 @@ Karjukoskentie,,2,6
 Kaskitie,,2,12
 Katinmäentie,,2,4
 Kauppilankuja,,2,13
-Kavelahdentie,,31,89
+Kavelahdentie,,33,89
 Kavetie,,3,12
 Kesäkiventie,,,
 Kirkkotie,,1,18
@@ -130,7 +130,7 @@ Mairentaival,,3,5
 Mantereenlahdentie,,23,74
 Marjamäentie,,23,49
 Martintie,,2,9
-Mastontie,,,
+Mastontie,,22,
 Metsämäentie,,18,
 Miinalantie,,32,
 Morsiusniementie,,29,93
@@ -175,6 +175,7 @@ Petkeljärventie,,74,80
 Pirttikulmantie,,32,330
 Pirttilahdentie,,33,65
 Pirttiniementie,,47,157
+Pitkäniementie,,15,43
 Poikkijärventie,,9,328
 Poste Restante,,,
 Puistoniementie,,38,67
@@ -203,7 +204,7 @@ Rekolantie,,1,152
 Riihilahdentie,,28,82
 Riihitie,,3,7
 Rimmijärventie,,23,78
-Rimminlahdentie,,13,47
+Rimminlahdentie,,13,65
 Rumpalintie,,18,349
 Ruojärvi,,,
 Ruokosentie,,89,151
@@ -212,9 +213,9 @@ Ruoniementie,,,
 Ruoniemi,,,
 Ryytjärventie,,219,239
 Saametsäntie,,178,218
-Saareksentie,,149,
+Saareksentie,,149,175
 Saarelantie,,65,71
-Saaresjärventie,,208,
+Saaresjärventie,,43,247
 Saarikontie,,4,66
 Saarimaantie,,58,76
 Sahatie,,9,
@@ -241,7 +242,7 @@ Savi-Hukintie,,101,
 Savirannantie,,17,98
 Sipilä,,,
 Sipiläntie,,8,63
-Soppelantie,,122,
+Soppelantie,,122,146
 Suoniemi,,,
 Suurijärventie,,39,315
 Suutolantie,,1,15
@@ -250,7 +251,7 @@ Särkijärventie,,4,135
 Särkiniementie,,82,100
 Säynätjoentie,,17,
 Säynätjoki,,,
-Säynätjärventie,,8,352
+Säynätjärventie,,8,132
 Sääksjärventie,,8,242
 Taavetinlahdentie,,94,239
 Taipaleentie,,47,
@@ -286,6 +287,7 @@ Varismäentie,,19,23
 Vehkavuorentie,,74,
 Vekkailantie,,20,
 Velisjärventie,,13,1007
+Velislammintie,,78,
 Vellahdentie,,1,
 Viertiöntie,,1,4
 Viltsyrjäntie,,55,65
@@ -295,7 +297,7 @@ Vuorikontie,,17,86
 Vähä-Salojärventie,,32,54
 Vähämäyriänjärventie,,2,
 Väinöntie,,3,11
-Välisentie,,7,136
+Välisentie,,7,164
 Välitie,,1,4
 Vällärintie,,2,78
 Ylä Puukilantie,,1,
