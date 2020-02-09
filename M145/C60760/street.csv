@@ -1,5 +1,6 @@
 street_fi,street_sv,lono,hino
 Alaanentie,,400,996
+Hamarintie,,483,
 Haurankyläntie,,84,169
 Hautapakantie,,18,47
 Hietalantie,,42,
@@ -7,8 +8,9 @@ Honkakyläntie,,26,231
 Huhtamaantie,,3,796
 Huoltotie,,1,3
 Ilmailutie,,5,7
-Jalasjärventie,,13,
+Jalasjärventie,,567,
 Keräilytie,,1,
+Kivimaantie,,16,113
 Kiviniementie,,65,325
 Koivurannantie,,15,21
 Kontiotie,,7,31
@@ -23,6 +25,7 @@ Luovantie,,9,407
 Majanevantie,,4,8
 Metsäpolku,,1,8
 Miilupolku,,5,9
+Mäkipellontie,,9,45
 Mäkisentie,,23,87
 Niemistöntie,,1,37
 Onnelantie,,5,34

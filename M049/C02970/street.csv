@@ -32,9 +32,9 @@ Klockarsintie,Klockarsvägen,3,7
 Korpilaakso,Kärrdalen,4,12
 Korpilammentie,Korpilampivägen,1,16
 Korpipolku,Kärrstigen,1,5
-Korteskallio,Kortesberget,4,
+Korteskallio,Kortesberget,,
 Kortesmäenkuja,Kortesbacksgränden,1,3
-Kortesmäentie,Kortesbacksvägen,4,38
+Kortesmäentie,Kortesbacksvägen,4,6
 Kortesmäki,Kortesbacken,2,9
 Kortesrinne,Kortesbranten,3,8
 Kortestie,Kortesvägen,1,16
@@ -51,6 +51,7 @@ Lahnuksenmylly,Lahnuskvarnen,1,17
 Lahnuksenrinne,Lahnusbrinken,1,7
 Lahnuksentie,Lahnusvägen,1,52
 Lammenranta,Träskstranden,1,15
+Lehtokortteentie,Ängsfräkensvägen,8,25
 Lepsämänjoentie,Lepsämänjokivägen,1,57
 Lomatie,Semestervägen,4,
 Lumikonkuja,Vesslegränden,2,4
@@ -91,6 +92,10 @@ Storgårdinkuja,Storgårdsgränden,1,3
 Storgårdinpolku,Storgårdsstigen,1,7
 Storgårdintie,Storgårdsvägen,1,14
 Suoheinäntie,Kärrhövägen,3,28
+Suokukankaari,Blomrisbågen,1,19
+Suokukanpolku,Blomrisstigen,1,7
+Suokukanrinne,Blomrisbranten,1,5
+Suovalkunpiha,Myggblomstergården,1,3
 Taka-Niipperin Tie,Baknipertsvägen,1,29
 Tornimäentie,Tornbergsvägen,1,15
 Uppgård,,,

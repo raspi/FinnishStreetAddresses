@@ -2,7 +2,7 @@ street_fi,street_sv,lono,hino
 Aarrekartantie,Skattkartsvägen,,
 Arpaonnenkuja,Lotterigränden,1,9
 Asgård,,3,37
-Bassenkuja,Bassegränden,,
+Bassenkuja,Bassegränden,1,
 Bassenkyläntie,Bassebyvägen,6,8
 Bassenmäki,Bassebacken,1,14
 Bassenraitti,Bassestråket,6,17
@@ -50,7 +50,7 @@ Hyttimestarintie,Hyttmästarvägen,1,3
 Hyttipojankuja,Hyttgossegränden,2,
 Hyttiportti,Hyttporten,1,
 Hämäläistentie,Tavasternas Väg,1,35
-Iltamatie,Samkvämsvägen,,
+Iltamatie,Samkvämsvägen,14,
 Inglaksenrinne,Inglasbranten,1,14
 Inglaksentie,Inglasvägen,4,8
 Jakoniityntie,Delängsvägen,5,9
@@ -63,7 +63,7 @@ Kahvelitie,Gaffelvägen,2,22
 Kallvikinkukkula,Kallvikkullen,2,5
 Kallvikinrinne,Kallviksbranten,4,10
 Kallvikintie,Kallviksvägen,1,3
-Kangaskatu,Klädesgatan,,
+Kangaskatu,Klädesgatan,2,
 Karsikkotie,Röjningsvägen,1,12
 Kaskikuja,Svedjegränden,2,14
 Kaskimäenpää,Svedjebacksändan,,
@@ -76,9 +76,10 @@ Kauppamäki,Handelsbacken,1,10
 Kauppiaantanhua,Köpmanstået,2,
 Klippinkitie,Klippingsvägen,1,9
 Koikorvenpolku,Koikärrsstigen,3,7
+Komutintie,Kommodvägen,,
 Kristallikuja,Kristallgränden,2,14
 Kristallitie,Kristallvägen,2,12
-Kumppaninkuja,Partnersgränden,6,
+Kumppaninkuja,Partnersgränden,1,
 Kuningattarenkuja,Drottninggränden,1,23
 Kuninkaankartanontie,Kungsgårdsvägen,3,56
 Kuninkaanlähde,Kungsbrunnen,1,10
@@ -119,7 +120,7 @@ Makasiinitie,Magasinsvägen,2,36
 Mankinjoentie,Mankåvägen,1,7
 Mankinkuja,Mankgränden,3,10
 Mankinniitty,Mankängen,1,7
-Mankintie,Mankbyvägen,1,25
+Mankintie,Mankbyvägen,1,27
 Mesimäki,Nektarbacken,1,28
 Mesipolku,Nektarstigen,1,6
 Mindeninkuja,Mindensgränden,2,12
@@ -156,6 +157,8 @@ Pellavakuja,Lingränden,1,
 Peltomiehenkuja,Åkerbrukargränden,1,10
 Peltomiehentie,Åkerbrukarvägen,1,13
 Peringintie,Sperringsvägen,1,21
+Pestuukuja,Städsligsgränden,,
+Pestuuportti,Städslingsporten,,
 Pestuutie,Städslingsvägen,,
 Pilkkumitie,Spilkumvägen,1,15
 Pirkanportti,Birkaporten,1,7

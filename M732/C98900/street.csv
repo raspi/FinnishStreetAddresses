@@ -29,7 +29,7 @@ Jormantie,,1,6
 Julmoivanrinne,,2,
 Junginpolku,,3,5
 Jungintie,,2,13
-Kaarretie,,1,4
+Kaarre,,1,4
 Kangaspellontie,,3,16
 Kansantie,,2,14
 Kantolantie,,1,6
@@ -37,10 +37,13 @@ Karhupolku,,1,10
 Karjalaisentie,,7,13
 Karutsakangas,,,
 Katajapolku,,3,
+Katajarinne,,,
 Katasijakangas,,11,15
 Katasijakumpu,,,
 Katasijarinne,,,
+Kavioura,,,
 Kemijärventie,,,
+Keselmäjärvenranta,,,
 Keselmäjärventie,,1,13
 Keselmäkangas,,4,10
 Keselmäkumpu,,1,
@@ -60,6 +63,7 @@ Kuhmitsantie,,1,10
 Kuoppalantie,,3,9
 Kurrenkuja,,1,6
 Kutrikontie,,10,34
+Kuukkelinpesä,,,
 Kuusamontie,,4,92
 Kuusikuja,,6,14
 Kuusitie,,1,22
@@ -79,27 +83,34 @@ Mikontie,,4,8
 Museotie,,6,
 Myllytie,,1,10
 Männikkötie,,1,11
+Mäntyrinne,,,
 Märkäjärventie,,1,42
 Niemeläntie,,8,16
 Niemitie,,1,3
 Nilitie,,4,6
 Notkotie,,3,26
+Näätäpolku,,,
 Oikotie,,5,
 Outapolku,,2,4
 Pahtamännikkö,,5,17
 Panparksintie,,4,14
+Petterinpolku,,,
 Petäjämaantie,,6,12
 Pikkupolku,,1,
+Pohjoisranta,,,
 Poromiehentie,,6,10
+Poropuistontie,,,
 Porotokantie,,5,15
 Poste Restante,,,
 Postipolku,,1,9
 Puistolantie,,17,
 Pupunpolku,,1,3
+Pyhäjärvenranta,,,
 Pyhärinne,,5,
 Ratatie,,1,11
 Ratiskankuja,,2,9
 Raviradantie,,17,
+Revontie,,,
 Revontulentie,,1,9
 Riekonkuja,,1,
 Riekonpolku,,4,
@@ -111,6 +122,7 @@ Ruotsalaistentie,,1,12
 Ruuhentie,,2,21
 Ruuhijoentie,,7,39
 Ruuhipolku,,2,6
+Rytiranta,,,
 Saijantie,,1,118
 Sallantie,,4,137
 Sallatunturintie,,6,
@@ -126,6 +138,7 @@ Sulasalmentie,,2,4
 Supitie,,4,16
 Susitie,,3,
 Taimikkotie,,1,9
+Talokotajärventie,,,
 Tampionkuja,,1,5
 Tampiontie,,10,18
 Tapulitie,,2,59
@@ -154,4 +167,5 @@ Vesantie,,3,17
 Vesitie,,3,
 Vittikontie,,1,54
 Vuosnanmännikkö,,1,3
+Väinöläntie,,7,
 Väinöntie,,2,6
