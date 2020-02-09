@@ -183,6 +183,7 @@ Myllytie,,1,25
 Mäkirinteentie,,20,
 Mäntykiventie,,54,54
 Mäntytie,,1,9
+Naarakannaksentie,,116,128
 Naavapolku,,4,
 Nattalankuja,,12,20
 Nattalanniementie,,51,
@@ -191,7 +192,7 @@ Nattalantie,,14,170
 Nieriäntie,,3,7
 Nikkarintie,,2,8
 Nikkiläntie,,27,334
-Niontie,,99,195
+Niontie,,45,95
 Noitalammentie,,49,71
 Nuorahonniementie,,30,30
 Nuorantie,,2,14
@@ -262,7 +263,8 @@ Rantapolku,,30,
 Ratsupolku,,3,
 Rautionpolku,,3,
 Rehintie,,6,10
-Rikojärventie,,59,77
+Rikojärvenkuja,,4,14
+Rikojärventie,,59,59
 Ritvantie,,29,
 Rokkamäentie,,44,50
 Rusthollinkuja,,21,85
@@ -274,11 +276,13 @@ Saimaa Kotkatsaari,,29,
 Saimaa Lapinsalo,,30,198
 Saimaa Marjasaari,,35,
 Saimaa Männikkösaaret,,26,
+Sakarinkuja,,23,
 Salmensuuntie,,32,
 Sammaltie,,1,8
 Santarantie,,56,2255
 Savitaipale,,,
 Savitaipaleentie,,1,6
+Savolaisenniemenpolku,,9,37
 Savolaisensaarentie,,58,
 Savolaisentie,,,
 Selkäkankaantie,,4,17
@@ -305,6 +309,7 @@ Takakilventie,,48,70
 Talvijärventie,,154,224
 Teollisuustie,,1,10
 Tikantie,,9,80
+Tinaniemenraitti,,17,33
 Tinaniementie,,7,301
 Tipakantie,,235,267
 Toivolantie,,9,515
@@ -340,6 +345,7 @@ Virmajärventie,,682,927
 Virmajärvi Lamposaari,,30,
 Virtasentie,,53,63
 Viuhonpääntie,,11,271
+Vuorijärvenpolku,,15,15
 Väliniementie,,29,33
 Välitie,,27,
 Ympyrätie,,2,19
