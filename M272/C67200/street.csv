@@ -5,7 +5,8 @@ Arminkatu,Armigatan,1,9
 Falanderinkatu,Falandersgatan,2,35
 Haapatie,Aspvägen,3,19
 Harrinniementie,Harrbådavägen,16,153
-Herman Renlundinkatu,Herman Renlundsgatan,19,46
+Herman Renlundin Katu,Herman Renlunds Gata,19,46
+Hernepolku,Ärtstigen,,
 Hiekkapurontie,Sandbäcksvägen,5,12
 Hollihaantie,Hållhagsvägen,1,7
 Honkatie,Furuvägen,1,20
@@ -17,12 +18,14 @@ Kesätie,Sommarvägen,1,29
 Kevättie,Vårvägen,1,21
 Kihukuja,Labben,,
 Koivutie,Björkvägen,2,20
-Kustaa Aadolfinkatu,Gustaf Adolfsgatan,29,104
+Kustaa Aadolfin Katu,Gustaf Adolfs Gata,29,104
 Kuusitie,Granvägen,1,23
+Lanttupolku,Kålrotsstigen,,
 Lehmustie,Lindvägen,3,46
 Lehtipolku,Lövstigen,1,3
 Leppätie,Alvägen,3,5
 Libeckinkatu,Libecksgatan,1,60
+Läntinen Venevajantie,Västra Båthusvägen,,
 Mariankatu,Mariegatan,2,38
 Meriharakantie,Strandskatavägen,1,27
 Merikotkantie,Havsörnvägen,9,20
@@ -30,6 +33,7 @@ Merilokinkaari,Havstrutsvängen,1,34
 Meritie,Havsvägen,10,
 Meritullintie,Sjötullsvägen,2,8
 Outokummuntie,Outokumpuvägen,3,
+Papupolku,Bönstigen,,
 Pihlajatie,Rönnvägen,1,19
 Pikipannuntie,Beckgrytevägen,1,8
 Pikipolku,Beckstigen,,
@@ -39,6 +43,8 @@ Pikitie,Beckvägen,5,23
 Pikitynnyrintie,Becktunnsvägen,1,11
 Polttimentie,Brännerivägen,1,11
 Poppelitie,Poppelvägen,1,40
+Pottupolku,Potätstigen,,
+Purjopolku,Purjolöksstigen,,
 Puutarhakatu,Trädgårdsgatan,10,27
 Raahenkatu,Brahegatan,3,48
 Rinnetie,Brinkvägen,3,5
@@ -52,6 +58,7 @@ Tapulitie,Stapelvägen,2,20
 Telkkäkuja,Knipgränden,2,12
 Terveystie,Hälsovägen,1,
 Tiirakuja,Tärnan,,
+Tillipolku,Dillstigen,,
 Tuomitie,Häggvägen,1,19
 Tykkitie,,1,5
 Urheilukatu,Idrottsgatan,10,36
