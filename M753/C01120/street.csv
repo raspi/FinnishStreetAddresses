@@ -1,21 +1,38 @@
 street_fi,street_sv,lono,hino
 Ahtelantie,Ahtelavägen,5,55
 Alvallantie,Alvallavägen,16,40
+Ankarholmen,,,
+Asplandet,,,
 Bergebo,,,
 Bergkullantie,Bergkullavägen,1,59
 Björkhagantie,Björkhagavägen,7,80
+Björkholmen,,,
+Bläsören,,,
 Blåfieldinpolku,Blåfieldsstigen,5,17
 Blåfieldintie,Blåfieldsvägen,2,65
+Brändholmskobben,,,
 Dalbonkuja,Dalbogränden,2,16
-Granö,,,
+Eestiluodon Granlandet,Estlotans Granlandet,,
+Eestiluoto,Estlotan,,
+Etermaholmen,,,
+Forsensholmarna,,,
+Fästningen,,,
+Fåfängholmen,,,
+Girsholmen,,,
+Granholmen,,,
+Granö,,26,
+Granön Käringholmen,Granö Käringholmen,,
 Gretebo,,,
+Grönholmen,,,
 Gumbontie,Gumbovägen,5,139
 Haapaniementie,Aspnäsvägen,5,81
 Haavistontie,Aspeskogsvägen,2,58
+Hanskinen,Hanskholmen,,
 Hedåsintie,Hedåsvägen,4,15
 Härkämäentie,Oxbackavägen,2,34
 Immersbackantie,Immersbackavägen,18,124
 Immersbyntie,Immersbyvägen,2,170
+Itäinen Torrhästklobben,Östra Torrhästklobben,,
 Jyrkänne,Branten,3,8
 Kapulasuontie,Kavelkärrsvägen,11,35
 Katajakalliontie,Enbergsvägen,2,22
@@ -23,9 +40,11 @@ Katrineholmintie,Katrineholmsvägen,1,170
 Katveenpolku,Skuggstigen,4,
 Knaperbackantie,Knaperbackavägen,4,83
 Komsalö,,,
+Kuiva-Hevonen,Torra Hästen,,
 Kärrkullantie,Kärrkullavägen,2,70
 Laaksokummuntie,,6,21
 Lillörintie,Lillörsvägen,2,17
+Läntinen Torrhästklobben,Västra Torrhästklobben,,
 Majvikintie,Majviksvägen,1,181
 Metsäkalliontie,Skogsbergsvägen,10,92
 Norrkullalandet,,,
@@ -42,7 +61,12 @@ Suokalliontie,Mossbergsvägen,1,27
 Särkilammentie,Mörtträskvägen,3,50
 Söderkullalandet,,,
 Tallås,,,
+Tassen,,,
+Tirhället,,,
+Tjurholmen,,,
+Tobben,,,
 Toivolantie,Önskebovägen,4,46
+Torstenholm,,,
 Uusi Porvoontie,Nya Borgåvägen,424,966
 Vaakkolantie,Vaakkolavägen,1,89
 Veljesmäki,,,
