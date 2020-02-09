@@ -1,5 +1,5 @@
 street_fi,street_sv,lono,hino
-Alamyllyntie,Nedre Kvarnvägen,2,8
+Alamyllynpolku,Nedre Kvarnstigen,1,5
 Aurinkoniitynkuja,Solängsgränden,1,5
 Aurinkoniityntie,Solängsvägen,1,33
 Bellinmäki,Bellbacken,1,5
@@ -39,7 +39,6 @@ Miilukorventie,Milkärrsvägen,1,25
 Miilumäki,Milbacken,2,16
 Myllyjärventie,Kvarnträskvägen,1,21
 Myllypellontie,Kvarnåkersvägen,1,12
-Myllytie,Kvarnvägen,1,5
 Nedre Gloms,,1,
 Niittymäki,Ängesbacken,1,11
 Niittyveräjä,Ängesgrinden,1,11
@@ -57,6 +56,7 @@ Pihkametsä,Kådskogen,2,10
 Piilopirtintie,Lönnpörtesvägen,1,9
 Pirttimäki,,,
 Pirttirinne,Pörtesbranten,1,6
+Purohyrränpolku,Strandlöparstigen,2,8
 Puromäki,,,
 Raiviokorpi,Rödjeskogen,1,8
 Rantaojantie,Strandbäcksvägen,1,16

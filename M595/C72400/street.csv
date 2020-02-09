@@ -1,5 +1,7 @@
 street_fi,street_sv,lono,hino
+Aholantie,,11,136
 Ahotie,,1,7
+Ahvenisentie,,71,173
 Ainolantie,,1,29
 Alasahontie,,8,112
 Ameriikantie,,100,100
@@ -8,6 +10,7 @@ Haapajärventie,,98,254
 Haapakoskentie,,7,59
 Haapatie,,2,
 Hakalantie,,1,7
+Harakanniementie,,58,78
 Harjutie,,5,16
 Haukkalahdentie,,25,223
 Heinäsuontie,,19,95
@@ -15,6 +18,7 @@ Hiidenniementie,,186,269
 Hirvitie,,1,4
 Honkalantie,,3,14
 Honkamäentie,,1,88
+Huikarintie,,281,
 Hukantie,,1,3
 Härköniemi,,,
 Iisalmentie,,33,363
@@ -25,10 +29,11 @@ Iso-Haapaniementie,,64,130
 Jokitie,,47,160
 Jussintie,,1,22
 Juurikkalahdentie,,263,667
+Jylängintie,,83,710
 Järvenpääntie,,5,200
 Karjalantie,,1,20
 Karsikkomäentie,,5,140
-Karsikontie,,339,408
+Karsikontie,,8,408
 Katajamäentie,,96,1475
 Kaunisharju,,,
 Kaunisharjuntie,,66,493
@@ -67,8 +72,8 @@ Lähdetie,,2,8
 Lämpökuja,,1,
 Länsirannantie,,21,35
 Länsirinteentie,,39,88
-Löytynmyllyntie,,6,6
-Maaningantie,,1,925
+Löytynmyllyntie,,6,430
+Maaningantie,,1,1308
 Maja-Ahontie,,51,129
 Majakorventie,,155,447
 Majavatie,,2,
@@ -93,9 +98,9 @@ Pangantie,,25,949
 Pankkoniementie,,10,195
 Papinkalliontie,,1,15
 Pappilantie,,1,11
-Patamäentie,,53,381
+Patamäentie,,53,404
 Penttilänlahdentie,,8,346
-Perimäentie,,35,85
+Perimäentie,,35,337
 Perminiementie,,188,364
 Petruntie,,3,6
 Petäjäjärventie,,5,832
@@ -116,6 +121,7 @@ Revontie,,4,20
 Rinnetie,,1,43
 Rinteentie,,19,53
 Saarisentie,,12,510
+Saarisjoentie,,110,228
 Salmenniementie,,13,358
 Sammakkolahdentie,,76,181
 Sammalisenlahdentie,,93,150
