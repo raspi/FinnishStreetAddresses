@@ -1,8 +1,8 @@
 street_fi,street_sv,lono,hino
 Ahokankaantie,,1,6
-Antellinkatu,,1,9
+Antellinkatu,,1,20
 Forsiuksenpolku,,,
-Haapasalonkatu,,4,
+Haapasalonkatu,,1,
 Halilantie,,1,22
 Helukankaantie,,1,3
 Huldankuja,,1,3
@@ -21,7 +21,7 @@ Linnajärventie,,1,8
 Lähdekankaantie,,1,6
 Makontie,,3,27
 Mannisenpolku,,1,
-Moisionrannantie,,1,13
+Moisionrannantie,,1,16
 Mustalammentie,,5,7
 Nieluslammentie,,3,5
 Niemenmäki,,1,6
@@ -39,7 +39,7 @@ Pöndisenkuja,,4,
 Raja-Ahontie,,1,
 Sierulantie,,1,15
 Siikasalmentie,,2,47
-Suppakuja,,3,
+Suppakuja,,1,3
 Syysjärventie,,1,10
 Uittamonsalmentie,,2,15
 Ukonseläntie,,1,13

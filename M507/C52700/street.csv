@@ -1,5 +1,5 @@
 street_fi,street_sv,lono,hino
-Ahdinpolku,,5,
+Ahdinpolku,,3,7
 Ahmantie,,3,10
 Aholantie,,32,
 Ahotie,,1,11
@@ -48,7 +48,7 @@ Heinälahdentie,,97,
 Heittotie,,2,4
 Hentulantie,,30,74
 Hepoharjuntie,,12,
-Heporinne,,6,8
+Heporinne,,4,8
 Herajärventie,,340,354
 Herakuruntie,,2,27
 Hevoshaantie,,19,
@@ -91,7 +91,7 @@ Kaislapolku,,2,11
 Kaislarannantie,,29,31
 Kakkuvuorentie,,56,102
 Kalettomantie,,92,182
-Kallalahdentie,,4,198
+Kallalahdentie,,4,200
 Kallalahti,,,
 Kallapolku,,2,21
 Kallavedentie,,1,15
@@ -221,7 +221,7 @@ Lokansuontie,,55,85
 Lomatie,,4,
 Lotinjoentie,,123,700
 Loukkurinne,,3,
-Loukkusaarentie,,14,
+Loukkusaarentie,,6,14
 Luhtanen,,,
 Luhtasenkylä,,,
 Lukkarinkuja,,3,8
@@ -247,7 +247,7 @@ Matara-Ahontie,,149,
 Mattilantie,,61,124
 Merulahdentie,,87,
 Metsäläntie,,84,162
-Miekankoskentie,,5,922
+Miekankoskentie,,3,922
 Miekankoski,,,
 Mikkolantie,,6,150
 Mirvantie,,32,60
@@ -276,7 +276,7 @@ Mäntysensivu,,13,33
 Mökkitie,,6,
 Mökkyrinvuorentie,,43,
 Möllintie,,4,84
-Naakanniementie,,16,33
+Naakanniementie,,10,33
 Nahkurintie,,5,30
 Nappilammentie,,90,
 Neulaniementie,,17,49
@@ -290,7 +290,7 @@ Nikkiläntie,,9,
 Nokiantie,,1,180
 Notkolantie,,4,
 Nummikuja,,1,11
-Nurmelantie,,12,
+Nurmelantie,,10,22
 Nuutinniementie,,22,48
 Nättiläntie,,25,65
 Näädäntie,,2,13
@@ -318,11 +318,11 @@ Pekkojärventie,,118,353
 Pekkolantie,,2,6
 Pekonmäentie,,48,105
 Pekonsaarentie,,1,19
-Pelimanninkuja,,6,
+Pelimanninkuja,,6,8
 Peltokuja,,1,4
 Peltolantie,,41,
 Peltomäentie,,1,5
-Pentinkuja,,4,10
+Pentinkuja,,2,10
 Pentinpolku,,1,
 Penttiläntie,,1,4
 Perhospolku,,3,15
@@ -404,7 +404,7 @@ Römmiläntie,,105,135
 Saarekkeentie,,7,23
 Saarnelantie,,11,
 Sahalahdentie,,1,20
-Sairaalantie,,1,4
+Sairaalantie,,1,5
 Sakarinmäki,,2,8
 Sakarintie,,5,264
 Sakunpolku,,8,14
@@ -514,7 +514,7 @@ Varpurannantie,,20,30
 Varsitie,,1,17
 Vasikkasaarentie,,24,30
 Veerannantie,,14,25
-Vehkolantie,,7,45
+Vehkolantie,,2,45
 Velmantie,,30,
 Vesakkotie,,26,44
 Vesalantie,,27,177
