@@ -1,6 +1,7 @@
 street_fi,street_sv,lono,hino
 Evakkotie,,5,11
 Helylänkuja,,1,14
+Hiekkaranta,,1,
 Hollihaantie,,1,25
 Hollitaipaleentie,,4,40
 Hollituvantie,,3,23
@@ -23,7 +24,7 @@ Liinaharjankatu,,1,19
 Mankolantie,,1,29
 Mannisentie,,1,27
 Muottikuja,,2,7
-Muurahaissaari,,1,
+Muurahaissaari,,,
 Mäntysaari,,1,
 Niinitie,,1,8
 Niskakuja,,1,13

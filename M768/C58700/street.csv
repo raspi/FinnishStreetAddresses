@@ -19,7 +19,7 @@ Hallitie,,1,11
 Halttulantie,,1,261
 Harakkamäentie,,4,22
 Harjulantie,,85,
-Hasulantie,,19,75
+Hasulantie,,19,133
 Haukkavuorentie,,35,900
 Heikkurilantie,,24,780
 Himmeenlahdentie,,45,
@@ -41,7 +41,7 @@ Kaislasentie,,60,145
 Kaitajärventie,,68,120
 Kalajärventie,,13,280
 Kalarannantie,,16,32
-Kalliolantie,,52,56
+Kalliolantie,,40,56
 Kammolantie,,38,309
 Kanervakuja,,1,12
 Kangastalontie,,30,
@@ -52,7 +52,7 @@ Karlammintie,,65,123
 Karsinalahdentie,,,
 Kasakkamäentie,,30,
 Katajakuja,,3,5
-Kaunolantie,,2,23
+Kaunolantie,,2,27
 Kauppatie,,1,6
 Keittomäentie,,80,
 Kesämäentie,,3,33
@@ -231,6 +231,7 @@ Vihotuntie,,2,211
 Vihtaniementie,,52,200
 Vilkaharjuntie,,1,219
 Vilkalahdentie,,60,66
+Vinotie,,2,
 Vipusenkuja,,1,6
 Virtasalmentie,,60,240
 Vuoniementie,,30,135
