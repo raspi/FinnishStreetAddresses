@@ -40,7 +40,7 @@ Jussi Mäntysen Tie,Jussi Mäntynens Väg,7,
 Jussinkuja,,2,4
 Jänesjärventie,,37,178
 Jätintie,,19,35
-Kaakkurintie,Smålomsvägen,,
+Kaakkurintie,Smålomsvägen,8,
 Kaitaniementie,,34,62
 Kaitarannantie,,48,90
 Kalakoskentie,,98,122
@@ -137,6 +137,7 @@ Mäntyrinne,,11,130
 Mäntytie,,,
 Niemeläntie,,27,361
 Niittyvillantie,,26,68
+Nokka,,1,28
 Nummijärventie,,1,841
 Nuottakalliontie,,12,54
 Nuottarannantie,,41,59
@@ -157,8 +158,8 @@ Peräpolku,,10,52
 Perätie,,15,192
 Pietarintie,,9,41
 Pilvipolku,,18,34
-Pirttihaara,Pörtstigen,,
-Pirttikuja,Pörtgränden,10,64
+Pirttihaara,Pörtstigen,3,10
+Pirttikuja,Pörtgränden,30,64
 Pistokuja,,3,
 Pohkianranta,,64,70
 Puujärventie,,8,440
