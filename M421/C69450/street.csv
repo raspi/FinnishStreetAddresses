@@ -1,6 +1,6 @@
 street_fi,street_sv,lono,hino
 Aholantie,,20,
-Hietalantie,,1,29
+Hietalantie,,1,20
 Itälahdentie,,36,1036
 Itäniementie,,122,222
 Jokelantie,,14,85
@@ -14,9 +14,11 @@ Konttikoskentie,,8,222
 Kuivaniementie,,185,225
 Kumpulaisentie,,75,
 Kumpulantie,,8,22
+Kuoppalantie,,3,
 Kuruntie,,56,
 Leppiniementie,,99,
 Lestijärventie,,661,1150
+Louhuniementie,,4,
 Lähderinne,,15,
 Metsätontuntie,,1,13
 Mustikantie,,15,263
@@ -26,4 +28,6 @@ Peuralantie,,783,835
 Peurankaarre,,4,16
 Päivärinnantie,,2,10
 Sepäntie,,39,69
+Siltatie,,9,
+Similäntie,,7,
 Tuliniementie,,22,123

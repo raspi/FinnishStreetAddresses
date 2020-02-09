@@ -2,11 +2,13 @@ street_fi,street_sv,lono,hino
 Aarnionkatu,,1,9
 Aarnionkuja,,3,
 Ajomiehenkuja,,1,10
+Akselikuja,,2,
 Artiokatu,,9,
 Edusmiehentie,,1,33
 Emokarhuntie,,1,13
 Hakamaa,,1,23
 Hakolahdentie,,8,16
+Hatelikontie,,11,13
 Havukuja,,1,8
 Heinäluodontie,,5,7
 Hillerinkatu,,2,22
@@ -46,6 +48,7 @@ Kotilahdentie,,3,20
 Kukkosentie,,2,4
 Kukkospapintie,,1,19
 Kulmalankatu,,12,21
+Kuormaajantie,,4,8
 Kuusikkoniementie,,1,7
 Käkisalmenkatu,,33,
 Kämmenpolku,,2,6
@@ -92,7 +95,7 @@ Otavanpojankatu,,1,19
 Paimenpojantie,,1,8
 Pajupillintie,,1,26
 Paksuniementie,,8,29
-Papinkankaantie,,1,14
+Papinkankaantie,,1,
 Peesaajanpolku,,1,7
 Pentuepolku,,1,14
 Perttiläntie,,2,6
@@ -101,6 +104,7 @@ Petäikkölänkatu,,10,12
 Peurantie,,3,
 Pihkakuja,,1,8
 Pikkukarhuntie,,2,18
+Pikkukivenpolku,,7,
 Pilvikinkuja,,1,8
 Porkkarinne,,1,8
 Porkkatie,,1,16
