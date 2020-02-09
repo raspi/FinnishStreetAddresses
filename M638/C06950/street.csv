@@ -1,4 +1,5 @@
 street_fi,street_sv,lono,hino
+Abborörarna,,34,
 Aittarannantie,Bosandsvägen,36,130
 Ankarvikintie,Ankarviksvägen,11,104
 Badstukobbenintie,Badstukobbsvägen,2,66
@@ -7,6 +8,10 @@ Bengtsbyntie,Bengtsbyvägen,45,111
 Brisingantie,Brisingavägen,20,40
 Dyvik,,60,
 Eestinukontie,Estgubbens Väg,4,30
+Emäsalon Björkholmen,Emsalö Björkholmen,28,104
+Emäsalon Gåsholmen,Emsalö Gåsholmen,2,
+Emäsalon Majholmen,Emsalö Majholmen,36,100
+Emäsalon Svedjeholmen,Emsalö Svedjeholmen,54,66
 Emäsalontie,Emsalövägen,123,1440
 Eslahdenpolku,Essviksstigen,,
 Eslahdentie,Esviksvägen,9,23
@@ -21,6 +26,7 @@ Halsvikintie,Halsviksvägen,24,38
 Hamnkilintie,Hamnkilsvägen,36,48
 Hellaksentie,Hellasvägen,5,27
 Holsteininkuja,Holsteinsgränden,10,171
+Högholmen,,2,88
 Inneruddintie,Inneruddsvägen,8,40
 Jalabergintie,Jalabergsvägen,9,26
 Kaislaniementie,Röruddsvägen,14,40
@@ -59,10 +65,14 @@ Pikkuhiekantie,Lillsandsvägen,8,18
 Pikkuniementie,Lillnäsvägen,18,107
 Pilventuvantie,Molnstuguvägen,9,
 Pirskerintie,Birsskärsvägen,12,22
+Repholmen,,50,
+Rönnskäret,,6,
 Rörvikintie,Rörviksvägen,26,40
+Röören,,6,14
 Saarilahdentie,Skärsviksvägen,5,30
 Saarilahti,Skärsvik,120,
 Skepparnäsintie,Skepparnäsvägen,5,11
+Skracklet,,2,
 Snipparsintie,Snipparsvägen,9,25
 Soidintie,Orrspelsvägen,28,
 Soluddintie,Soluddsvägen,10,33
@@ -71,7 +81,9 @@ Strandantie,Strandavägen,3,17
 Styrsvikintie,Styrsviksvägen,31,115
 Suomi-Yhtiön Tie,Suomi-Bolagets Väg,39,
 Syvälahdentie,Dyviksvägen,36,350
+Tallören,,2,6
 Telakanraitti,Varvsstråket,9,107
+Tomasholmen,,26,
 Tukkilahdentie,Timmerviksvägen,26,142
 Tuliniityntie,Eldängsvägen,1,53
 Uimarannantie,Simstrandsvägen,6,40

@@ -5,7 +5,7 @@ Aittolahdentie,,14,52
 Ala-Nuorajärventie,,11,179
 Alalammintie,,10,21
 Alhontie,,16,118
-Alkulantie,,18,85
+Alkulantie,,9,265
 Ansiolahdentie,,4,525
 Ansiolahti,,,
 Ansiomäentie,,48,116
@@ -29,6 +29,7 @@ Hirsivalkamantie,,1,
 Hirvijärventie,,147,610
 Hirviniementie,,138,302
 Hiukkolansaarentie,,106,537
+Honkasuontie,,169,
 Hornintie,,23,45
 Hovilanmäentie,,7,27
 Hyppöläntie,,179,304
@@ -182,8 +183,9 @@ Poikkijärventie,,9,328
 Poste Restante,,,
 Puistoniementie,,38,67
 Puistotie,,4,6
+Pujotteenlahdentie,,54,72
 Pukkalantie,,1,3
-Pukkiniementie,,241,328
+Pukkiniementie,,243,328
 Punalantie,,3,252
 Purotie,,19,28
 Puukilankuja,,4,
@@ -260,8 +262,8 @@ Taipaleentie,,47,
 Takkulantie,,11,84
 Tampereentie,,10,1250
 Tanhuantie,,97,285
-Tapuinniementie,,4,
-Tapuintie,,19,23
+Tapuinniementie,,4,46
+Tapuintie,,19,35
 Tarhatie,,3,12
 Taunonpolku,,2,11
 Tehi,,10,
@@ -297,6 +299,7 @@ Vinniläntie,,10,
 Vintturinniementie,,80,82
 Vuorikontie,,17,86
 Vähä-Salojärventie,,32,54
+Vähäjärventie,,11,33
 Vähämäyriänjärventie,,2,
 Väinöntie,,3,11
 Välisentie,,7,164
