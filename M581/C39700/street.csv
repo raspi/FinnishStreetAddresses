@@ -32,8 +32,8 @@ Haukkalantie,,12,57
 Haverintie,,38,276
 Havukkaantie,,18,50
 Heikintie,,3,7
-Heinilammentie,,10,14
-Heinilammintie,,26,
+Heinilammentie,,,
+Heinilammintie,,10,156
 Heinosentie,,1,49
 Heinämäenkuja,,1,7
 Heittolankatu,,3,
@@ -42,7 +42,7 @@ Hiihtokeskuksentie,,29,47
 Hiirihaukankuja,,1,10
 Hirvijärventie,,3,148
 Hirviperäntie,,97,
-Hiukkahuhdantie,,16,
+Hiukkahuhdantie,,18,24
 Holmanmäentie,,3,10
 Honkalantie,,2,57
 Honkaluomantie,,10,36
@@ -175,6 +175,7 @@ Lähdekatu,,2,
 Majakkakatu,,1,12
 Mannerheimintie,,1,24
 Mansukoskentie,,1,63
+Marjolahdentie,,2,17
 Marjontie,,6,40
 Matulantie,,7,11
 Meijerinkuja,,1,6
